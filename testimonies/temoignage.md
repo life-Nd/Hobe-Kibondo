@@ -1,0 +1,15 @@
+Je me souviens encore du jour où j'ai appris que j'étais adoptée. C'était un jour tout à fait ordinaire à l'école, et la révélation est venue comme un coup de tonnerre. J'étais là, assise en classe, lorsque la vérité m'a été révélée, laissant un mélange de confusion et de trahison s'installer en moi.
+
+La découverte de mon adoption a déclenché en moi une tempête d'émotions tumultueuses. Cette nouvelle m'a fait me sentir à la fois trahie et indésirable. Mes parents adoptifs m'avaient caché cette vérité, et mes parents biologiques m'avaient, dans mon esprit, simplement abandonnée.
+
+Ma relation avec ma mère adoptive a été particulièrement touchée. Là où il y avait autrefois des appels chaleureux de "maman", il n'y avait plus que des appellations formelles et distantes. "Isabelle", je l'appelais, créant une distance entre nous qui était presque tangible. Elle a accepté cela avec une patience inébranlable, bien que je pouvais voir la douleur dans ses yeux chaque fois que le mot "maman" restait en suspens dans l'air, inexprimé.
+
+Les années qui ont suivi étaient difficiles. Je me sentais perdue, oscillant entre la colère envers mes parents adoptifs qui avaient gardé ce secret et le sentiment d'être indésirable par mes parents biologiques. La douleur était si intense, si dévorante, que je me perdais souvent dans mes propres pensées, cherchant désespérément à comprendre qui j'étais vraiment.
+
+Mes parents adoptifs ont tout fait pour me soutenir dans cette quête d'identité. Ils m'ont expliqué leurs raisons, partagé les lettres de mes parents biologiques, et fait tout leur possible pour me rassurer sur leur amour inconditionnel. Pourtant, je ne pouvais pas m'empêcher de me sentir trahie.
+
+C'est seulement des années plus tard, après la naissance de ma deuxième fille, que j'ai commencé à voir les choses différemment. La maternité a ouvert une fenêtre dans mon cœur, me permettant de voir le soutien constant et inébranlable de ma mère adoptive sous un nouveau jour. Elle était toujours là, toujours aimante, même dans les moments les plus difficiles.
+
+Cette prise de conscience a été un tournant pour moi. J'ai commencé à comprendre que l'amour et la famille vont bien au-delà des liens du sang. La femme que j'appelais "Isabelle" était, et est toujours, ma maman. Elle m'a choisie, elle m'a aimée, et elle ne m'a jamais abandonnée. Et mes parents biologiques, malgré les circonstances difficiles, m'avaient donné la chance d'avoir une famille aimante.
+
+Aujourd'hui, je suis fière de mon histoire. J'ai appris que l'identité ne se trouve pas seulement dans les origines, mais aussi dans les expériences et les personnes qui nous entourent et nous soutiennent. Avec Hobe, je veux aider d'autres à trouver la paix et l'acceptation que j'ai trouvées, et à comprendre que chaque histoire est unique et précieuse.
