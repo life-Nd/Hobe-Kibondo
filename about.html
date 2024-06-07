@@ -1,601 +1,507 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title data-i18n="7dc19471ad41682fb187aa0f4ebad9ec">
-      Hobe Kibondo - À propos de nous
-    </title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="" name="keywords" />
-    <meta content="" name="description" />
+<html lang="fr">
 
-    <!-- Favicon -->
-    <link href="assets/images/hobe-banner1.webp" rel="icon" />
+<head>
+  <meta charset="utf-8" />
+  <title data-i18n="7dc19471ad41682fb187aa0f4ebad9ec">
+    Hobe Kibondo - À propos de nous
+  </title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta content="" name="keywords" />
+  <meta content="" name="description" />
 
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Saira:wght@500;600;700&amp;display=swap"
-      rel="stylesheet"
-    />
+  <!-- Favicon -->
+  <link href="assets/images/hobe-banner1.webp" rel="icon" />
 
-    <!-- Icon Font Stylesheet -->
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
-      rel="stylesheet"
-    />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css"
-      rel="stylesheet"
-    />
+  <!-- Google Web Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Saira:wght@500;600;700&amp;display=swap"
+    rel="stylesheet" />
 
-    <!-- Libraries Stylesheet -->
-    <link href="lib/animate/animate.min.css" rel="stylesheet" />
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+  <!-- Icon Font Stylesheet -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
 
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Libraries Stylesheet -->
+  <link href="lib/animate/animate.min.css" rel="stylesheet" />
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
 
-    <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet" />
-  </head>
+  <!-- Customized Bootstrap Stylesheet -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
 
-  <body>
-    <!-- Spinner Start -->
-    <div
-      id="spinner"
-      class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center"
-    >
-      <div class="spinner-grow text-primary" role="status"></div>
+  <!-- Template Stylesheet -->
+  <link href="css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <style>
+    /* CSS for Mission Grid */
+    .mission-item {
+      background-color: #ffffff;
+      border: 1px solid #e5e5e5;
+      border-radius: 8px;
+      padding: 20px;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      transition: all 0.3s ease;
+    }
+
+    .mission-item:hover {
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .mission-icon {
+      font-size: 2.5rem;
+      margin-right: 20px;
+      color: #43a2ae;
+      /* Custom icon color */
+    }
+
+    .mission-text h4 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    .mission-text p {
+      font-size: 1rem;
+      color: #6c757d;
+      /* Custom text color */
+    }
+
+    /* End of CSS for Mission Grid */
+  </style>
+  <!-- Spinner Start -->
+  <div id="spinner"
+    class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <div class="spinner-grow text-primary" role="status"></div>
+  </div>
+  <!-- Spinner End -->
+
+  <!-- Navbar Start -->
+  <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
+    <div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
+      <div class="col-lg-6 px-5 text-start">
+        <small><i class="fa fa-map-marker-alt me-2"></i>Rue X, Kinindo,
+          Bujumbura</small>
+        <small class="ms-4"><i class="fa fa-envelope me-2"></i>info@hobe-kibondo.com</small>
+      </div>
+      <div class="col-lg-6 px-5 text-end">
+        <small data-i18n="ac2ca81b86a49c219cc1b81e8682b831">Suivez Hobe Kibondo sur nos r&#233;seaux sociaux :</small>
+        <a class="text-white-50 ms-3" href=""><i class="fab fa-facebook-f"></i></a>
+        <a class="text-white-50 ms-3" href=""><i class="fab fa-twitter"></i></a>
+        <a class="text-white-50 ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
+        <a class="text-white-50 ms-3" href=""><i class="fab fa-instagram"></i></a>
+      </div>
     </div>
-    <!-- Spinner End -->
 
-    <!-- Navbar Start -->
-    <div
-      class="container-fluid fixed-top px-0 wow fadeIn"
-      data-wow-delay="0.1s"
-    >
-      <div
-        class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex"
-      >
-        <div class="col-lg-6 px-5 text-start">
-          <small
-            ><i class="fa fa-map-marker-alt me-2"></i>Rue X, Kinindo,
-            Bujumbura</small
-          >
-          <small class="ms-4"
-            ><i class="fa fa-envelope me-2"></i>info@hobe-kibondo.com</small
-          >
+    <nav class="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s"
+      style="height: 70px">
+      <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+        <!-- <h1 class="fw-bold text-primary m-0">
+        Hobe<span
+          class="text-white"
+          data-i18n="2d79085b8d779c92fbda60fe0d032a0f"
+        >
+          Kibondo</span
+        >
+      </h1> -->
+        <img style="width: 200px; height: 150px; overflow: hidden"
+          src="./assets/images/hobe-banner-removebg-preview2.png" sizes="(max-width: 100px) 100px, 100px" srcset="
+              ./assets/images/hobe-banner-removebg-preview2.png 1x,
+              ./assets/images/hobe-banner-removebg-preview2.png
+            " alt="Hobe Kibondo" fill="" />
+      </a>
+      <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav ms-auto p-4 p-lg-0">
+          <a href="index.html" class="nav-item nav-link">Accueil</a>
+
+          <a href="actions.html" class="nav-item nav-link" data-i18n="b25e17187f6ff28e587169e7c3fab604">Nos actions
+          </a>
+          <a href="testimonies.html" class="nav-item nav-link" data-i18n="b25e17187f6ff28e587169e7c3fab604">Témoignages
+          </a>
+          <a href="about.html" class="nav-item nav-link active" data-i18n="b25e17187f6ff28e587169e7c3fab604">À propos de
+            nous
+          </a>
         </div>
-        <div class="col-lg-6 px-5 text-end">
-          <small data-i18n="ac2ca81b86a49c219cc1b81e8682b831"
-            >Suivez Hobe Kibondo sur nos r&#233;seaux sociaux :</small
-          >
-          <a class="text-white-50 ms-3" href=""
-            ><i class="fab fa-facebook-f"></i
-          ></a>
-          <a class="text-white-50 ms-3" href=""
-            ><i class="fab fa-twitter"></i
-          ></a>
-          <a class="text-white-50 ms-3" href=""
-            ><i class="fab fa-linkedin-in"></i
-          ></a>
-          <a class="text-white-50 ms-3" href=""
-            ><i class="fab fa-instagram"></i
-          ></a>
+        <div class="d-none d-lg-flex ms-2">
+          <a class="btn btn-outline-primary py-2 px-3" href="contact.html">
+            Nous joindre
+            <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+              <i class="fa fa-arrow-right"></i>
+            </div>
+          </a>
         </div>
       </div>
+    </nav>
+  </div>
+  <!-- Navbar End -->
 
-      <nav
-        class="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn"
-        data-wow-delay="0.1s"
-      >
-        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-          <h1 class="fw-bold text-primary m-0">
-            Hobe<span
-              class="text-white"
-              data-i18n="2d79085b8d779c92fbda60fe0d032a0f"
-            >
-              Kibondo</span
-            >
-          </h1>
-        </a>
-        <button
-          type="button"
-          class="navbar-toggler me-4"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarCollapse"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="index.html" class="nav-item nav-link">Accueil</a>
+  <!-- Page Header Start -->
+  <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center">
+      <div class="mt-10" style="padding-top: 370px">
+        <!-- <h1 class="display-4 text-white animated slideInDown mb-4" data-i18n="d4a32147d48a3d2091074c08225a27f4">
+                    À propos de nous</h1> -->
+        <nav aria-label="breadcrumb animated slideInDown">
+          <ol class="breadcrumb justify-content-center mb-0">
+            <li class="breadcrumb-item" aria-current="page" data-i18n="837c559f66fc9a8c8fdc8a505efe979d">
+              <a class="text-white" href="#">Accueil</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a class="text-white" href="#">Pages</a>
+            </li>
+            <li class="breadcrumb-item text-primary active" aria-current="page">
+              À propos de nous
+            </li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <!-- Page Header End -->
 
-            <a
-              href="actions.html"
-              class="nav-item nav-link"
-              data-i18n="b25e17187f6ff28e587169e7c3fab604"
-              >Nos actions
-            </a>
-            <a
-              href="testimonies.html"
-              class="nav-item nav-link"
-              data-i18n="b25e17187f6ff28e587169e7c3fab604"
-              >Témoignages
-            </a>
-            <a
-              href="about.html"
-              class="nav-item nav-link active"
-              data-i18n="b25e17187f6ff28e587169e7c3fab604"
-              >À propos de nous
-            </a>
+  <!-- About Start -->
+  <div class="container-xxl py-5">
+    <div class="container">
+      <div class="row g-5">
+        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="position-relative overflow-hidden h-100" style="min-height: 444px; max-height: 555px">
+            <img loading="lazy" class="position-absolute w-100 h-100 pt-5 pe-5" src="assets/images/group2.jpg"
+              alt="Image de la mission Hobe Kibondo" style="object-fit: contain" />
+            <img loading="lazy" class="position-absolute top-0 end-0 bg-white ps-2 pb-2"
+              src="assets/images/group_banner.jpg" alt="Groupe Hobe Kibondo" style="width: 200px; height: 200px" />
           </div>
-          <div class="d-none d-lg-flex ms-2">
+        </div>
+        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="h-100">
+            <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">
+              Notre mission
+            </div>
+            <h2 class="">Panser les blessures de la séparation.</h2>
+            <div>
+              <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
+                <span class="text-primary">Renouer les liens familiaux brisés.</span>
+                <p class="mb-5">
+                  Notre objectif est de retrouver et reconnecter les enfants
+                  et parents séparés par diverses circonstances.
+                </p>
+              </div>
+              <!-- <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
+                                <span class="text-primary">Reconnecter les familles.</span>
+                                <p class="mb-5">Nous mettons tout en œuvre pour aider les enfants à retrouver leurs
+                                    parents et vice-versa.</p>
+                            </div> -->
+              <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
+                <span class="text-primary">Éduquer pour prévenir l'abandon.</span>
+                <p class="mb-5">
+                  À travers nos actions de sensibilisation, nous œuvrons pour
+                  prévenir les abandons d'enfants et nourrissons.
+                </p>
+              </div>
+              <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
+                <span class="text-primary">Un soutien intégral pendant et après la
+                  réunification.</span>
+                <p class="mb-5">
+                  Nous offrons un soutien complet pour surmonter les défis
+                  rencontrés pendant et après le processus de réunification.
+                </p>
+              </div>
+            </div>
+            <a class="btn btn-primary py-2 px-3 me-3" href="actions.html">
+              En savoir plus
+              <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+                <i class="fa fa-arrow-right"></i>
+              </div>
+            </a>
             <a class="btn btn-outline-primary py-2 px-3" href="contact.html">
               Nous joindre
-              <div
-                class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2"
-              >
+              <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
                 <i class="fa fa-arrow-right"></i>
               </div>
             </a>
           </div>
         </div>
-      </nav>
+      </div>
     </div>
-    <!-- Navbar End -->
+  </div>
 
-    <!-- Page Header Start -->
-    <div
-      class="container-fluid page-header mb-5 wow fadeIn"
-      data-wow-delay="0.1s"
-    >
-      <div class="container text-center">
-        <div class="mt-10" style="padding-top: 370px">
-          <!-- <h1 class="display-4 text-white animated slideInDown mb-4" data-i18n="d4a32147d48a3d2091074c08225a27f4">
-                    À propos de nous</h1> -->
-          <nav aria-label="breadcrumb animated slideInDown">
-            <ol class="breadcrumb justify-content-center mb-0">
-              <li
-                class="breadcrumb-item"
-                aria-current="page"
-                data-i18n="837c559f66fc9a8c8fdc8a505efe979d"
-              >
-                <a class="text-white" href="#">Accueil</a>
-              </li>
-              <li class="breadcrumb-item">
-                <a class="text-white" href="#">Pages</a>
-              </li>
-              <li
-                class="breadcrumb-item text-primary active"
-                aria-current="page"
-              >
-                À propos de nous
-              </li>
-            </ol>
-          </nav>
+  <!-- Nos Actions Start -->
+  <div class="container-xxl bg-light my-5 py-5">
+    <div class="container py-5">
+      <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3"
+          data-i18n="5e266694254008b75407046104450840">
+          Actions de Hobe Kibondo
+        </div>
+        <h1 class="display-6 mb-5" data-i18n="c9c81ceb547abb0af2fc79d509496d8b">
+          Nos actions
+        </h1>
+      </div>
+
+      <div class="row g-4 justify-content-center">
+        <!-- Card 1 - Nos Cibles -->
+        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div
+            class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
+            style="background-color: floralwhite">
+            <div class="p-4 pt-0">
+              <h5 class="text-center bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4">
+                Nos cibles
+              </h5>
+              <ul class="text-left">
+                <li class="p-0 m-0" style="text-wrap: balance">
+                  <p class="p-0">
+                    Enfants/parents séparés pour cause de : abandon, rejet,
+                    fugue, insécurité, précarité...
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <div class="position-relative mt-auto">
+              <!-- <img loading="lazy" class="img-fluid" style="height:50vh;width: 100%;border-radius: 20px;" src="assets/images/cibles.jpg" alt="Nos cibles" /> -->
+            </div>
+          </div>
+        </div>
+        <!-- Card 2 - Recherche -->
+        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div
+            class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
+            style="background-color: floralwhite">
+            <div class="p-4 pt-0">
+              <h5 class="text-center bg-primary text-white justify-content-center rounded-bottom fs-5 pb-1 px-3 mb-4">
+                Recherche
+              </h5>
+              <ul class="text-left">
+                <li class="p-0 m-0" style="text-wrap: balance">
+                  <p class="p-0">
+                    Principalement au Burundi mais aussi partout au monde
+                  </p>
+                </li>
+                <li class="p-0 m-0" style="text-wrap: balance">
+                  <p class="p-0">
+                    À travers les églises et mosquées, radios, télé, réseaux
+                    sociaux, tests ADN
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <div class="position-relative mt-auto">
+              <!-- <img loading="lazy" class="img-fluid" style="height:50vh;width: 100%;border-radius: 20px;" src="assets/images/recherche.jpg" alt="Recherche" /> -->
+            </div>
+          </div>
+        </div>
+        <!-- Card 3 - Prise en charge psycho-sociale -->
+        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div
+            class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
+            style="background-color: floralwhite">
+            <div class="p-4 pt-0">
+              <h5 class="text-center d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4">
+                Prise en charge psycho-sociale
+              </h5>
+              <ul class="text-left">
+                <li class="p-0 m-0" style="text-wrap: balance">
+                  <p class="p-0">Création de centres d’écoute</p>
+                </li>
+                <li class="p-0 m-0" style="text-wrap: balance">
+                  <p class="p-0">Référence aux services spécialisés</p>
+                </li>
+              </ul>
+            </div>
+            <div class="position-relative mt-auto">
+              <!-- <img loading="lazy" class="img-fluid" style="height:50vh;width: 100%;border-radius: 20px;" src="assets/images/psycho_social.jpg" alt="Prise en charge psycho-sociale" /> -->
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <!-- Page Header End -->
+    <div class="text-center mx-auto mt-5 mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px">
+      <a class="btn btn-outline-primary px-3" href="actions.html">
+        Voir toutes nos Actions
+        <div class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2">
+          <i class="fa fa-arrow-right"></i>
+        </div>
+      </a>
+    </div>
+  </div>
+  <!-- Nos Actions End-->
 
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div class="row g-5">
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div
-              class="position-relative overflow-hidden h-100"
-              style="min-height: 444px; max-height: 555px"
-            >
-              <img
-                loading="lazy"
-                class="position-absolute w-100 h-100 pt-5 pe-5"
-                src="assets/images/group2.jpg"
-                alt="Image de la mission Hobe Kibondo"
-                style="object-fit: contain"
-              />
-              <img
-                loading="lazy"
-                class="position-absolute top-0 end-0 bg-white ps-2 pb-2"
-                src="assets/images/group_banner.jpg"
-                alt="Groupe Hobe Kibondo"
-                style="width: 200px; height: 200px"
-              />
+  <!-- Team Start -->
+  <div class="container-xxl py-5">
+    <div class="container">
+      <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3"
+          data-i18n="5a41311a2cfd16d1006b4c2b2161fd08">
+          &#201;quipe
+        </div>
+
+        <div class="container py-5">
+          <h2 class="mb-4">
+            Notre équipe multidisciplinaire a la mission de :
+          </h2>
+          <div class="row g-4">
+            <div class="col-lg-6">
+              <div class="mission-item">
+                <div class="mission-icon">
+                  <i class="fas fa-search"></i>
+                </div>
+                <div class="mission-text">
+                  <h4>Rechercher les enfants/parents séparés</h4>
+                  <!-- <p>Notre équipe se consacre à retrouver les enfants et les parents séparés.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="mission-item">
+                <div class="mission-icon">
+                  <i class="fas fa-users"></i>
+                </div>
+                <div class="mission-text">
+                  <h4>
+                    Réunifier les enfants/parents retrouvés ou placer les
+                    enfants dans des familles d’accueil
+                  </h4>
+                  <!-- <p>Nous travaillons à réunifier les enfants et les parents retrouvés ou à placer les enfants dans des
+                    familles d'accueil.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="mission-item">
+                <div class="mission-icon">
+                  <i class="fas fa-heartbeat"></i>
+                </div>
+                <div class="mission-text">
+                  <h4>Panser les blessures de la séparation</h4>
+                  <!-- <p>Nous aidons à guérir les blessures émotionnelles causées par la séparation.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="mission-item">
+                <div class="mission-icon">
+                  <i class="fas fa-hands-helping"></i>
+                </div>
+                <div class="mission-text">
+                  <h4>
+                    Soutenir d’une manière holistique les enfants/parents
+                    réunifiés
+                  </h4>
+                  <!-- <p>Nous offrons un soutien holistique aux enfants et aux parents réunifiés pour faciliter leur
+                    réintégration.</p> -->
+                </div>
+              </div>
             </div>
           </div>
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="h-100">
-              <div
-                class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3"
-              >
-                Notre mission
-              </div>
-              <h2 class="">Panser les blessures de la séparation.</h2>
-              <div>
-                <div
-                  class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4"
-                >
-                  <span class="text-primary"
-                    >Renouer les liens familiaux brisés.</span
-                  >
-                  <p class="mb-5">
-                    Notre objectif est de retrouver et reconnecter les enfants
-                    et parents séparés par diverses circonstances.
+        </div>
+      </div>
+      <div class="row g-4">
+        <h1 class="display-6 mb-3 text-center" data-i18n="b568113efd55c9314c0ff3ef31388e4f">
+          L' &#233;quipe d&#233;vou&#233;e
+        </h1>
+        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="team-item position-relative rounded overflow-hidden">
+            <div class="overflow-hidden">
+              <img loading="lazy" class="img-fluid" src="assets/images/jos.jpg" alt="" />
+            </div>
+            <div class="team-text bg-light text-center p-4">
+              <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
+                Joshua BEAUD
+              </h5>
+              <p class="text-primary" data-i18n="170cdd1f3d373da77ee85bf6d475fa25">
+                Agro Économiste
+              </p>
+              <div class="team-social text-center">
+                <div>
+                  <p>
+                    Mon rôle est de promouvoir l'autonomisation financière des
+                    familles bénéficiaires en développant des stratégies
+                    économiques adaptées à leurs besoins
                   </p>
                 </div>
-                <!-- <div class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4">
-                                <span class="text-primary">Reconnecter les familles.</span>
-                                <p class="mb-5">Nous mettons tout en œuvre pour aider les enfants à retrouver leurs
-                                    parents et vice-versa.</p>
-                            </div> -->
-                <div
-                  class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4"
-                >
-                  <span class="text-primary"
-                    >Éduquer pour prévenir l'abandon.</span
-                  >
-                  <p class="mb-5">
-                    À travers nos actions de sensibilisation, nous œuvrons pour
-                    prévenir les abandons d'enfants et nourrissons.
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="team-item position-relative rounded overflow-hidden">
+            <div class="overflow-hidden">
+              <img loading="lazy" class="img-fluid" src="assets/images/kessia.jpg" alt="" />
+            </div>
+            <div class="team-text bg-light text-center p-4">
+              <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
+                Kessia NTIBIBUKA
+              </h5>
+              <p class="text-primary">Droit Public et International</p>
+              <div class="team-social text-center">
+                <div>
+                  <p>
+                    Mon rôle est de veiller à ce que les droits des enfants et
+                    des familles soient protégés et respectés conformément aux
+                    normes juridiques nationales et internationales.
                   </p>
                 </div>
-                <div
-                  class="bg-light border-bottom border-5 border-primary rounded p-4 mb-4"
-                >
-                  <span class="text-primary"
-                    >Un soutien intégral pendant et après la
-                    réunification.</span
-                  >
-                  <p class="mb-5">
-                    Nous offrons un soutien complet pour surmonter les défis
-                    rencontrés pendant et après le processus de réunification.
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="team-item position-relative rounded overflow-hidden">
+            <div class="overflow-hidden">
+              <img loading="lazy" class="img-fluid" src="assets/images/donavine.jpg" alt="" />
+            </div>
+            <div class="team-text bg-light text-center p-4">
+              <h5>Donavine NIBOGORA</h5>
+              <p class="text-primary">Avocate</p>
+              <div class="team-social text-center">
+                <div>
+                  <p>
+                    Mon rôle est de fournir une représentation juridique
+                    solide aux enfants et aux familles vulnérables, en
+                    défendant leurs droits et en les soutenant dans les
+                    processus juridiques.
                   </p>
                 </div>
-              </div>
-              <a class="btn btn-primary py-2 px-3 me-3" href="actions.html">
-                En savoir plus
-                <div
-                  class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2"
-                >
-                  <i class="fa fa-arrow-right"></i>
-                </div>
-              </a>
-              <a class="btn btn-outline-primary py-2 px-3" href="contact.html">
-                Nous joindre
-                <div
-                  class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2"
-                >
-                  <i class="fa fa-arrow-right"></i>
-                </div>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Actions Start -->
-    <div class="container-xxl bg-light my-5 py-5">
-      <div class="container py-5">
-        <div
-          class="text-center mx-auto mb-5 wow fadeInUp"
-          data-wow-delay="0.1s"
-          style="max-width: 600px"
-        >
-          <div
-            class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3"
-            data-i18n="5e266694254008b75407046104450840"
-          >
-            Actions de Hobe Kibondo
-          </div>
-          <h1
-            class="display-6 mb-5"
-            data-i18n="c9c81ceb547abb0af2fc79d509496d8b"
-          >
-            Nos actions
-          </h1>
-        </div>
-
-        <div class="row g-4 justify-content-center">
-          <!-- Card 1 - Assistance Judiciaire -->
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div
-              class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
-              style="background-color: floralwhite"
-            >
-              <div class="p-4 pt-0">
-                <h5
-                  class="text-center d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
-                >
-                  Assistance juridique et judiciaire
-                </h5>
-                <!-- <h5 class="mb-3">Protection juridique par Hobe</h5> -->
-                <ul class="text-left">
-                  <li class="p-0 m-0" style="text-wrap: balance">
-                    <p class="p-0">
-                      Informations sur les droits et les devoirs vis à vis de la
-                      loi
-                    </p>
-                  </li>
-                  <li class="p-0 m-0" style="text-wrap: balance">
-                    <p class="p-0">
-                      Service d'un avocat en cas de recours à la justice
-                    </p>
-                  </li>
-                </ul>
-              </div>
-              <div class="position-relative mt-auto">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  style="height: 50vh; width: 100vh"
-                  src="assets/images/burundi_justice.jpg"
-                  alt="Image d'assistance psychologique"
-                />
-                <div class="causes-overlay"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Card 2 - Assistance médicale -->
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div
-              class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
-              style="background-color: floralwhite; text-wrap: pretty"
-            >
-              <div class="text-center p-4 pt-0">
-                <h5
-                  class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
-                >
-                  Assistance médicale
-                </h5>
-                <!-- <h5 class="mb-3">Soutien médical par Hobe</h5> -->
-                <ul class="text-start">
-                  <li
-                    class="p-0 m-0"
-                    style="text-wrap: balance; align-self: flex-start"
-                  >
-                    <p class="p-0">Checking de l'état géneral de sante</p>
-                  </li>
-                  <li class="p-0 m-0" style="text-wrap: balance">
-                    <p class="p-0">Suivi et conseil</p>
-                  </li>
-                </ul>
-              </div>
-              <div class="position-relative mt-auto">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  style="height: 50vh; width: 100vh"
-                  src="assets/images/medical.jpg"
-                  alt="Image de sessions de counseling"
-                />
-                <div class="causes-overlay"></div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Card 3 - Assistance Psychologique -->
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div
-              class="causes-item d-flex flex-column border-top border-5 border-primary rounded-top overflow-hidden h-100"
-              style="background-color: floralwhite"
-            >
-              <div class="text-center p-4 pt-0">
-                <h5
-                  class="d-inline-block bg-primary text-white rounded-bottom fs-5 pb-1 px-3 mb-4"
-                >
-                  Assistance Psychologique
-                </h5>
-                <!-- <h5 class="mb-3">Counseiling par Hobe</h5> -->
-                <!-- <p>Assistance pour aider les enfants à se réintégrer et progresser dans le système scolaire. -->
-                <ul class="text-start">
-                  <li class="p-0 m-0" style="text-wrap: balance">
-                    <p class="p-0">Counseiling et gestion du stress</p>
-                  </li>
-                  <li class="p-0 m-0" style="text-wrap: balance">
-                    <p class="p-0">Méditation</p>
-                  </li>
-                </ul>
-              </div>
-              <div class="position-relative mt-auto">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  style="height: 50vh; width: 100vh"
-                  src="assets/images/conseil.jpg"
-                  alt="Image de réinsertion scolaire"
-                />
-                <div class="causes-overlay"></div>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <div
-        class="text-center mx-auto mt-5 mb-5 wow fadeInUp"
-        data-wow-delay="0.1s"
-        style="max-width: 500px"
-      >
-        <a class="btn btn-outline-primary px-3" href="actions.html">
-          Voir toutes nos Actions
-          <div
-            class="d-inline-flex btn-sm-square bg-primary text-white rounded-circle ms-2"
-          >
-            <i class="fa fa-arrow-right"></i>
-          </div>
-        </a>
-      </div>
-    </div>
-    <!-- Actions End -->
-
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div
-          class="text-center mx-auto mb-5 wow fadeInUp"
-          data-wow-delay="0.1s"
-          style="max-width: 500px"
-        >
-          <div
-            class="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3"
-            data-i18n="5a41311a2cfd16d1006b4c2b2161fd08"
-          >
-            &#201;quipe
-          </div>
-          <h1
-            class="display-6 mb-5"
-            data-i18n="b568113efd55c9314c0ff3ef31388e4f"
-          >
-            Notre &#233;quipe d&#233;vou&#233;e
-          </h1>
-        </div>
-        <div class="row g-4">
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="team-item position-relative rounded overflow-hidden">
-              <div class="overflow-hidden">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  src="assets/images/jos.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="team-text bg-light text-center p-4">
-                <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
-                  Joshua BEAUD
-                </h5>
-                <p
-                  class="text-primary"
-                  data-i18n="170cdd1f3d373da77ee85bf6d475fa25"
-                >
-                  Agro Économiste
-                </p>
-                <div class="team-social text-center">
-                  <div>
-                    <p>
-                      Mon rôle est de promouvoir l'autonomisation financière des
-                      familles bénéficiaires en développant des stratégies
-                      économiques adaptées à leurs besoins
-                    </p>
-                  </div>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-instagram"></i
-                  ></a>
-                </div>
-              </div>
+        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+          <div class="team-item position-relative rounded overflow-hidden">
+            <div class="overflow-hidden">
+              <img loading="lazy" class="img-fluid" src="assets/images/clement.jpg" alt="" />
             </div>
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="team-item position-relative rounded overflow-hidden">
-              <div class="overflow-hidden">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  src="assets/images/kessia.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="team-text bg-light text-center p-4">
-                <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
-                  Kessia NTIBIBUKA
-                </h5>
-                <p class="text-primary">Droit Public et International</p>
-                <div class="team-social text-center">
-                  <div>
-                    <p>
-                      Mon rôle est de veiller à ce que les droits des enfants et
-                      des familles soient protégés et respectés conformément aux
-                      normes juridiques nationales et internationales.
-                    </p>
-                  </div>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+            <div class="team-text bg-light text-center p-4">
+              <h5>Clément NIYUKURI</h5>
+              <p class="text-primary">Management de projet</p>
+              <div class="team-social text-center">
+                <div>
+                  <p>
+                    Mon rôle est de superviser les opérations de l'ONG pour
+                    garantir leur efficacité et assurer une coordination
+                    optimale entre les départements.
+                  </p>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="team-item position-relative rounded overflow-hidden">
-              <div class="overflow-hidden">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  src="assets/images/donavine.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="team-text bg-light text-center p-4">
-                <h5>Donavine NIBOGORA</h5>
-                <p class="text-primary">Avocate</p>
-                <div class="team-social text-center">
-                  <div>
-                    <p>
-                      Mon rôle est de fournir une représentation juridique
-                      solide aux enfants et aux familles vulnérables, en
-                      défendant leurs droits et en les soutenant dans les
-                      processus juridiques.
-                    </p>
-                  </div>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-instagram"></i
-                  ></a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-            <div class="team-item position-relative rounded overflow-hidden">
-              <div class="overflow-hidden">
-                <img
-                  loading="lazy"
-                  class="img-fluid"
-                  src="assets/images/clement.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="team-text bg-light text-center p-4">
-                <h5>Clément NIYUKURI</h5>
-                <p class="text-primary">Management de projet</p>
-                <div class="team-social text-center">
-                  <div>
-                    <p>
-                      Mon rôle est de superviser les opérations de l'ONG pour
-                      garantir leur efficacité et assurer une coordination
-                      optimale entre les départements.
-                    </p>
-                  </div>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-square" href=""
-                    ><i class="fab fa-instagram"></i
-                  ></a>
-                </div>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -605,21 +511,13 @@
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
           <div class="team-item position-relative rounded overflow-hidden">
             <div class="overflow-hidden">
-              <img
-                loading="lazy"
-                class="img-fluid"
-                src="assets/images/rachel.jpg"
-                alt=""
-              />
+              <img loading="lazy" class="img-fluid" src="assets/images/rachel.jpg" alt="" />
             </div>
             <div class="team-text bg-light text-center p-4">
               <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
                 Rachel MUHORAKEYE
               </h5>
-              <p
-                class="text-primary"
-                data-i18n="170cdd1f3d373da77ee85bf6d475fa25"
-              >
+              <p class="text-primary" data-i18n="170cdd1f3d373da77ee85bf6d475fa25">
                 Politique Publique
               </p>
               <div class="team-social text-center">
@@ -630,15 +528,9 @@
                     réintégration des enfants dans leur milieu familial.
                   </p>
                 </div>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-instagram"></i
-                ></a>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -646,21 +538,13 @@
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="team-item position-relative rounded overflow-hidden">
             <div class="overflow-hidden">
-              <img
-                loading="lazy"
-                class="img-fluid"
-                src="assets/images/dorine.jpg"
-                alt=""
-              />
+              <img loading="lazy" class="img-fluid" src="assets/images/dorine.jpg" alt="" />
             </div>
             <div class="team-text bg-light text-center p-4">
               <h5 data-i18n="8348c6a290453dd31929dcbee983830e">
                 Aimé Dorine KAZE
               </h5>
-              <p
-                class="text-primary"
-                data-i18n="170cdd1f3d373da77ee85bf6d475fa25"
-              >
+              <p class="text-primary" data-i18n="170cdd1f3d373da77ee85bf6d475fa25">
                 Médecin
               </p>
               <div class="team-social text-center">
@@ -671,15 +555,9 @@
                     et aux femmes enceintes en difficulté.
                   </p>
                 </div>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-instagram"></i
-                ></a>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -687,12 +565,7 @@
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="team-item position-relative rounded overflow-hidden">
             <div class="overflow-hidden">
-              <img
-                loading="lazy"
-                class="img-fluid"
-                src="assets/images/jean-claude.jpg"
-                alt=""
-              />
+              <img loading="lazy" class="img-fluid" src="assets/images/jean-claude.jpg" alt="" />
             </div>
             <div class="team-text bg-light text-center p-4">
               <h5>Jean Claude SEKAMANA</h5>
@@ -706,15 +579,9 @@
                     situation familiale.
                   </p>
                 </div>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-instagram"></i
-                ></a>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -722,13 +589,7 @@
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="team-item position-relative rounded overflow-hidden">
             <div class="overflow-hidden">
-              <img
-                loading="lazy"
-                class="img-fluid"
-                src="assets/images/Ashley-mod.jpeg"
-                alt=""
-                style="height: 391px"
-              />
+              <img loading="lazy" class="img-fluid" src="assets/images/Ashley-mod.jpeg" alt="" style="height: 391px" />
             </div>
             <div class="team-text bg-light text-center p-4">
               <h5>Ashley BUKERA</h5>
@@ -742,15 +603,9 @@
                     au Burundi.
                   </p>
                 </div>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-instagram"></i
-                ></a>
+                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -758,138 +613,94 @@
       </div>
     </div>
 
-    <!-- Team End -->
+  </div>
+  <!-- Team End -->
 
-    <!-- Footer Start -->
-    <div
-      class="container-fluid bg-dark text-white-50 footer mt-5 pt-5 wow fadeIn"
-      data-wow-delay="0.1s"
-    >
-      <div class="container py-5">
-        <div class="row g-5">
-          <div class="col-lg-3 col-md-6">
-            <h1 class="fw-bold text-primary mb-4" style="font-size: 2.2rem">
-              Hobe<span class="text-white"> Kibondo</span>
-            </h1>
-            <p data-i18n="cfdb5dc52e5001fce342cabaafa362c1">
-              Chaque membre est d&#233;vou&#233; &#224; la cause de Hobe.
-            </p>
-            <div class="d-flex pt-2">
-              <a class="btn btn-square me-1" href=""
-                ><i class="fab fa-twitter"></i
-              ></a>
-              <a class="btn btn-square me-1" href=""
-                ><i class="fab fa-facebook-f"></i
-              ></a>
-              <a class="btn btn-square me-1" href=""
-                ><i class="fab fa-youtube"></i
-              ></a>
-              <a class="btn btn-square me-0" href=""
-                ><i class="fab fa-linkedin-in"></i
-              ></a>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <h5
-              class="text-light mb-4"
-              data-i18n="4491437876f2b8a1d7bc8b068efe70a8"
-            >
-              Nos coordonnées
-            </h5>
-            <p>
-              <i class="fa fa-map-marker-alt me-3"></i>Rue X, Kinindo, Bujumbura
-            </p>
-            <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-            <p><i class="fa fa-envelope me-3"></i>info@hobe-kibondo.com</p>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <h5
-              class="text-light mb-4"
-              data-i18n="412b7f021ba12c16c9b535191485540f"
-            >
-              Liens Utiles
-            </h5>
-            <a
-              class="btn btn-link"
-              href="contact.html"
-              data-i18n="88a10c6cabc71da93e78605c8e4b693f"
-              >Nous joindre</a
-            >
-            <a class="btn btn-link" href="donate.html"
-              >Supporter Hobe Kibondo</a
-            >
-            <a
-              class="btn btn-link"
-              href="terms-of-service.html"
-              data-i18n="56d7849571148c5e2040d84041fa0268"
-              >Conditions Générales</a
-            >
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <h5
-              class="text-light mb-4"
-              data-i18n="033365d13b43d0bd5b157e692c386bb7"
-            >
-              Newsletter
-            </h5>
-            <p data-i18n="a398037fef3297975fce5cdb8f5ec347">
-              Rejoignez Hobe Kibondo et faites une diff&#233;rence.
-            </p>
-            <div class="position-relative mx-auto" style="max-width: 400px">
-              <input
-                class="form-control bg-transparent w-100 py-3 ps-4 pe-5"
-                type="text"
-                placeholder="Courriel"
-              />
-              <button
-                type="button"
-                class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"
-                data-i18n="effafc733d097cee285208357948102a"
-              >
-                Inscrivez-vous
-              </button>
-            </div>
+  <!-- Footer Start -->
+  <div class="container-fluid bg-dark text-white-50 footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container py-5">
+      <div class="row g-5">
+        <div class="col-lg-3 col-md-6">
+          <h1 class="fw-bold text-primary mb-4" style="font-size: 2.2rem">
+            Hobe<span class="text-white"> Kibondo</span>
+          </h1>
+          <p data-i18n="cfdb5dc52e5001fce342cabaafa362c1">
+            Panser les blessures de la séparation.
+          </p>
+          <div class="d-flex pt-2">
+            <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
+            <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
+            <a class="btn btn-square me-1" href=""><i class="fab fa-youtube"></i></a>
+            <a class="btn btn-square me-0" href=""><i class="fab fa-linkedin-in"></i></a>
           </div>
         </div>
-      </div>
-      <div class="container-fluid copyright">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              &#169;
-              <a href="#" data-i18n="ad56446e56fd598aaf57b65d5eafdc18"
-                >Hobe Kibondo</a
-              >, Tous droits réservés
-            </div>
-            <div class="col-md-6 text-center text-md-end">
-              Conception par
-              <a
-                href="https://lifeninc.com"
-                data-i18n="4a9290256c730db1c2705c82da34eb9d"
-                >LifenInc</a
-              >
-            </div>
+        <div class="col-lg-3 col-md-6">
+          <h5 class="text-light mb-4" data-i18n="4491437876f2b8a1d7bc8b068efe70a8">
+            Nos coordonnées
+          </h5>
+          <p>
+            <i class="fa fa-map-marker-alt me-3"></i>Rue X, Kinindo, Bujumbura
+          </p>
+          <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+          <p><i class="fa fa-envelope me-3"></i>info@hobe-kibondo.com</p>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h5 class="text-light mb-4" data-i18n="412b7f021ba12c16c9b535191485540f">
+            Liens Utiles
+          </h5>
+          <a class="btn btn-link" href="contact.html" data-i18n="88a10c6cabc71da93e78605c8e4b693f">Nous joindre</a>
+          <a class="btn btn-link" href="donate.html">Supporter Hobe Kibondo</a>
+          <a class="btn btn-link" href="terms-of-service.html" data-i18n="56d7849571148c5e2040d84041fa0268">Conditions
+            Générales</a>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h5 class="text-light mb-4" data-i18n="033365d13b43d0bd5b157e692c386bb7">
+            Newsletter
+          </h5>
+          <p data-i18n="a398037fef3297975fce5cdb8f5ec347">
+            Rejoignez Hobe Kibondo et faites une diff&#233;rence.
+          </p>
+          <div class="position-relative mx-auto" style="max-width: 400px">
+            <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Courriel" />
+            <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"
+              data-i18n="effafc733d097cee285208357948102a">
+              Inscrivez-vous
+            </button>
           </div>
         </div>
       </div>
     </div>
-    <!-- Footer End -->
+    <div class="container-fluid copyright">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+            &#169;
+            <a href="#" data-i18n="ad56446e56fd598aaf57b65d5eafdc18">Hobe Kibondo</a>, Tous droits réservés
+          </div>
+          <div class="col-md-6 text-center text-md-end">
+            Conception par
+            <a href="https://lifeninc.com" data-i18n="4a9290256c730db1c2705c82da34eb9d">LifenInc</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Footer End -->
 
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
-      ><i class="bi bi-arrow-up"></i
-    ></a>
+  <!-- Back to Top -->
+  <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/parallax/parallax.min.js"></script>
+  <!-- JavaScript Libraries -->
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/parallax/parallax.min.js"></script>
 
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
-  </body>
+  <!-- Template Javascript -->
+  <script src="js/main.js"></script>
+</body>
+
 </html>

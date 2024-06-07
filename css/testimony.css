@@ -192,6 +192,7 @@ textarea {
   max-width: 100%;
   height: auto;
 }
+
 .img-fluid-action {
   max-width: 100%;
   height: auto;
@@ -248,7 +249,7 @@ textarea {
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
 
-.row > * {
+.row>* {
   -ms-flex-negative: 0;
   flex-shrink: 0;
   width: 100%;
@@ -727,11 +728,11 @@ textarea.form-control {
   padding-left: 0;
 }
 
-.site-nav .site-navigation .site-menu > li {
+.site-nav .site-navigation .site-menu>li {
   display: inline-block;
 }
 
-.site-nav .site-navigation .site-menu > li > a {
+.site-nav .site-navigation .site-menu>li>a {
   font-size: 14px;
   padding: 10px 10px;
   display: inline-block;
@@ -739,11 +740,11 @@ textarea.form-control {
   color: rgba(255, 255, 255, 0.7);
 }
 
-.site-nav .site-navigation .site-menu > li > a:hover {
+.site-nav .site-navigation .site-menu>li>a:hover {
   color: #fff;
 }
 
-.site-nav .site-navigation .site-menu > li.active > a {
+.site-nav .site-navigation .site-menu>li.active>a {
   color: #fff;
 }
 
@@ -751,12 +752,12 @@ textarea.form-control {
   position: relative;
 }
 
-.site-nav .site-navigation .site-menu .has-children > a {
+.site-nav .site-navigation .site-menu .has-children>a {
   position: relative;
   padding-right: 20px;
 }
 
-.site-nav .site-navigation .site-menu .has-children > a:before {
+.site-nav .site-navigation .site-menu .has-children>a:before {
   position: absolute;
   content: "\e313";
   font-size: 14px;
@@ -801,99 +802,47 @@ textarea.form-control {
   color: #214252 !important;
 }
 
-.site-nav .site-navigation .site-menu .has-children .dropdown > li {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li {
   list-style: none;
   padding: 0;
   margin: 0;
   min-width: 180px;
 }
 
-.site-nav .site-navigation .site-menu .has-children .dropdown > li > a {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li>a {
   padding: 5px 20px;
   display: block;
 }
 
-.site-nav .site-navigation .site-menu .has-children .dropdown > li > a:hover {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li>a:hover {
   color: #214252;
 }
 
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children
-  > a:before {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children>a:before {
   content: "\e315";
   right: 20px;
 }
 
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children
-  > .dropdown,
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children
-  > ul {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children>.dropdown,
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children>ul {
   left: 100%;
   top: 0;
 }
 
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children
-  > .dropdown
-  li
-  a:hover,
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children
-  > ul
-  li
-  a:hover {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children>.dropdown li a:hover,
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children>ul li a:hover {
   color: #214252;
 }
 
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children:hover
-  > a,
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children:active
-  > a,
-.site-nav
-  .site-navigation
-  .site-menu
-  .has-children
-  .dropdown
-  > li.has-children:focus
-  > a {
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children:hover>a,
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children:active>a,
+.site-nav .site-navigation .site-menu .has-children .dropdown>li.has-children:focus>a {
   color: #214252;
 }
 
-.site-nav .site-navigation .site-menu .has-children:hover > a,
-.site-nav .site-navigation .site-menu .has-children:focus > a,
-.site-nav .site-navigation .site-menu .has-children:active > a {
+.site-nav .site-navigation .site-menu .has-children:hover>a,
+.site-nav .site-navigation .site-menu .has-children:focus>a,
+.site-nav .site-navigation .site-menu .has-children:active>a {
   color: #fff;
 }
 
@@ -903,9 +852,9 @@ textarea.form-control {
   cursor: pointer;
 }
 
-.site-nav .site-navigation .site-menu .has-children:hover > .dropdown,
-.site-nav .site-navigation .site-menu .has-children:focus > .dropdown,
-.site-nav .site-navigation .site-menu .has-children:active > .dropdown {
+.site-nav .site-navigation .site-menu .has-children:hover>.dropdown,
+.site-nav .site-navigation .site-menu .has-children:focus>.dropdown,
+.site-nav .site-navigation .site-menu .has-children:active>.dropdown {
   -webkit-transition-delay: 0s;
   -o-transition-delay: 0s;
   transition-delay: 0s;
@@ -924,7 +873,7 @@ textarea.form-control {
   top: -20px;
 }
 
-.site-mobile-menu-close > span {
+.site-mobile-menu-close>span {
   cursor: pointer;
   display: block;
   position: absolute;
@@ -932,8 +881,8 @@ textarea.form-control {
   width: 30px;
 }
 
-.site-mobile-menu-close > span:before,
-.site-mobile-menu-close > span:after {
+.site-mobile-menu-close>span:before,
+.site-mobile-menu-close>span:after {
   position: absolute;
   content: "";
   width: 2px;
@@ -941,13 +890,13 @@ textarea.form-control {
   background: #000;
 }
 
-.site-mobile-menu-close > span:before {
+.site-mobile-menu-close>span:before {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
-.site-mobile-menu-close > span:after {
+.site-mobile-menu-close>span:after {
   -webkit-transform: rotate(-45deg);
   -ms-transform: rotate(-45deg);
   transform: rotate(-45deg);
@@ -1025,7 +974,7 @@ textarea.form-control {
   display: block;
 }
 
-.site-mobile-menu .site-nav-wrap li.active > a {
+.site-mobile-menu .site-nav-wrap li.active>a {
   color: #214252;
 }
 
@@ -1064,43 +1013,43 @@ textarea.form-control {
   transform: translate(-50%, -50%);
 }
 
-.site-mobile-menu .site-nav-wrap > li {
+.site-mobile-menu .site-nav-wrap>li {
   display: block;
   position: relative;
   float: left;
   width: 100%;
 }
 
-.site-mobile-menu .site-nav-wrap > li > a {
+.site-mobile-menu .site-nav-wrap>li>a {
   padding-left: 20px;
   font-size: 14px;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul {
+.site-mobile-menu .site-nav-wrap>li>ul {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul > li {
+.site-mobile-menu .site-nav-wrap>li>ul>li {
   display: block;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul > li > a {
+.site-mobile-menu .site-nav-wrap>li>ul>li>a {
   padding-left: 40px;
   font-size: 14px;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul > li > ul {
+.site-mobile-menu .site-nav-wrap>li>ul>li>ul {
   padding: 0;
   margin: 0;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul > li > ul > li {
+.site-mobile-menu .site-nav-wrap>li>ul>li>ul>li {
   display: block;
 }
 
-.site-mobile-menu .site-nav-wrap > li > ul > li > ul > li > a {
+.site-mobile-menu .site-nav-wrap>li>ul>li>ul>li>a {
   font-size: 14px;
   padding-left: 60px;
 }
@@ -1334,7 +1283,7 @@ textarea {
   font-size: 13px;
   width: 100%;
   display: block;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .post-meta .author-figure img {
@@ -1520,11 +1469,18 @@ textarea {
 .post-entry-sidebar .post-meta,
 .post-entry-footer .post-meta {
   font-size: 14px;
+  list-style: none;
   color: #b3b3b3;
+}
+
+.post-entry-sidebar ul li h4 {
+  margin: 0;
+  padding: 0;
 }
 
 .post-entry-sidebar ul,
 .post-entry-footer ul {
+  list-style: none;
   padding: 0;
   margin: 0;
 }
@@ -1538,6 +1494,7 @@ textarea {
 
 .post-entry-sidebar ul li a,
 .post-entry-footer ul li a {
+  list-style: none;
   display: table;
   color: #4d4c7d;
 }
@@ -1545,12 +1502,14 @@ textarea {
 .post-entry-sidebar ul li a img,
 .post-entry-footer ul li a img {
   width: 90px;
+
 }
 
 .post-entry-sidebar ul li a img,
 .post-entry-sidebar ul li a .text,
 .post-entry-footer ul li a img,
 .post-entry-footer ul li a .text {
+  list-style: none;
   display: table-cell;
   vertical-align: middle;
 }
@@ -1558,6 +1517,9 @@ textarea {
 .post-entry-sidebar ul li a .text h4,
 .post-entry-footer ul li a .text h4 {
   font-size: 18px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .post-entry-footer ul li {
@@ -1599,7 +1561,7 @@ textarea {
   position: relative;
 }
 
-.site-cover > .container {
+.site-cover>.container {
   position: relative;
   z-index: 2;
 }
@@ -1686,7 +1648,7 @@ textarea {
   display: none;
 }
 
-.site-footer .social li a > span {
+.site-footer .social li a>span {
   position: absolute;
   top: 50%;
   left: 50%;
