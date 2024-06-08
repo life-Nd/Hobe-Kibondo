@@ -4,6 +4,7 @@
     --secondary: #FFF0E6;
     --light: #F8F8F9;
     --dark: #001D23;
+    color-scheme: only light;
 }
 
 .back-to-top {
@@ -449,4 +450,10 @@
 
 .footer .copyright a:hover {
     color: var(--primary);
+}
+.banner-image{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+
 }
