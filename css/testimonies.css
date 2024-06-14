@@ -3,9 +3,9 @@
     margin:4rem;
 }
 .posts-entry .blog-entry .img-link {
-    position: relative;
+    /* position: relative; */
     overflow: hidden;
-    display: inline-block;
+    /* display: inline-block; */
     border-radius: 10px;
     margin-bottom: 10px;
 }
