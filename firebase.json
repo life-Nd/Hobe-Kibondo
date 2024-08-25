@@ -15,6 +15,6 @@
     ]
   },
   "storage": {
-    "rules": "n"
+    "rules": "storage.rules"
   }
 }
