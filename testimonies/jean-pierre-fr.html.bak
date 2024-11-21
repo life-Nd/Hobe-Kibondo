@@ -4,8 +4,8 @@
 <head>
 <meta charset="utf-8"/>
 <title>
-   Hobe Kibondo - Témoignages
-  </title>
+        Hobe Kibondo - Témoignages
+    </title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="" name="keywords"/>
 <meta content="" name="description"/>
@@ -74,35 +74,21 @@
 <!-- Spinner End -->
 <!-- Spinner Start -->
 <div class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center" id="spinner">
-<div class="spinner-grow text-primary" role="status">
-</div>
+<div class="spinner-grow text-primary" role="status"></div>
 </div>
 <!-- Spinner End -->
 <!-- Navbar Start -->
 <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
 <div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
 <div class="col-lg-6 px-5 text-start">
-<small>
-<i class="fa fa-map-marker-alt me-2">
-</i>
-      20, av. Kunkiko Rohero II,
-                    Bujumbura
-     </small>
-<small class="ms-4">
-<i class="fa fa-envelope me-2">
-</i>
-      info@hobe-kibondo.com
-     </small>
+<small><i class="fa fa-map-marker-alt me-2"></i>20, av. Kunkiko Rohero II,
+                    Bujumbura</small>
+<small class="ms-4"><i class="fa fa-envelope me-2"></i>info@hobe-kibondo.com</small>
 </div>
 <div class="col-lg-6 px-5 text-end">
-<small>
-      Suivez Hobe Kibondo sur nos réseaux sociaux
-                    :
-     </small>
-<a class="text-white-50 ms-3" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/">
-<i class="fab fa-facebook-f">
-</i>
-</a>
+<small>Suivez Hobe Kibondo sur nos réseaux sociaux
+                    :</small>
+<a class="text-white-50 ms-3" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
 <!-- <a class="text-white-50 ms-3" href=""><i class="fab fa-twitter"></i></a>
                 <a class="text-white-50 ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
                 <a class="text-white-50 ms-3" href=""><i class="fab fa-instagram"></i></a> -->
@@ -116,33 +102,26 @@
             " style="width: 100px; height: 70px; overflow: hidden"/>
 </a>
 <button class="navbar-toggler me-4" data-bs-target="#navbarCollapse" data-bs-toggle="collapse" type="button">
-<span class="navbar-toggler-icon">
-</span>
+<span class="navbar-toggler-icon"></span>
 </button>
 <div class="collapse navbar-collapse" id="navbarCollapse">
 <div class="navbar-nav ms-auto p-4 p-lg-0">
-<a class="nav-item nav-link" href="../index.html">
-       Accueil
-      </a>
-<a class="nav-item nav-link" href="../actions.html">
-       Nos
+<a class="nav-item nav-link" href="../index.html">Accueil</a>
+<a class="nav-item nav-link" href="../actions.html">Nos
                         actions
-      </a>
-<a class="nav-item nav-link active" href="../testimonies.html">
-       Témoignages
-      </a>
-<a class="nav-item nav-link" href="../about.html">
-       À
+                    </a>
+<a class="nav-item nav-link active" href="../testimonies.html">Témoignages
+                    </a>
+<a class="nav-item nav-link" href="../about.html">À
                         propos
                         de nous
-      </a>
+                    </a>
 </div>
 <div class="d-none d-lg-flex ms-2">
 <a class="btn btn-outline-primary py-2 px-3" href="../contact.html">
-       Nous joindre
-       <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
-<i class="fa fa-arrow-right">
-</i>
+                        Nous joindre
+                        <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+<i class="fa fa-arrow-right"></i>
 </div>
 </a>
 </div>
@@ -159,18 +138,14 @@
 <nav aria-label="breadcrumb animated slideInDown">
 <ol class="breadcrumb justify-content-center mb-0">
 <li aria-current="page" class="breadcrumb-item">
-<a class="text-white" href="../index.html">
-         Accueil
-        </a>
+<a class="text-white" href="../index.html">Accueil</a>
 </li>
 <li class="breadcrumb-item">
-<a class="text-white" href="../testimonies.html">
-         Témoignages
-        </a>
+<a class="text-white" href="../testimonies.html">Témoignages</a>
 </li>
 <li aria-current="page" class="breadcrumb-item text-primary active">
-        Jean-Pierre Rukundo
-       </li>
+                            Jean-Pierre Rukundo
+                        </li>
 </ol>
 </nav>
 </div>
@@ -181,19 +156,13 @@
 <div class="row same-height justify-content-center">
 <div class="col-md-6">
 <div class="post-entry text-center">
-<h1 class="mt-4 mb-4" data-i18n="e09975629ab7b4ff1e6267bc60044b8b">
-        L'ENFANT CACHÉ
-       </h1>
+<h1 class="mt-4 mb-4">L'ENFANT CACHÉ</h1>
 <div class="post-meta align-items-center text-center p-4">
 <figure class="author-figure mb-0 me-3 d-inline-block">
 <img alt="Image" class="img-fluid" src="../assets/images/icon_avatar.png" style="max-width: 100px; max-height: 100px"/>
 </figure>
-<span class="d-inline-block mt-1">
-         Par Jean-Pierre Rukundo
-        </span>
-<span>
-         -  28 Mai 2024
-        </span>
+<span class="d-inline-block mt-1">Par Jean-Pierre Rukundo</span>
+<span> -  28 Mai 2024</span>
 </div>
 </div>
 </div>
@@ -205,87 +174,58 @@
 <div class="row blog-entries element-animate">
 <div class="col-md-12 col-lg-8 main-content">
 <div class="post-content-body">
-<h2 data-i18n="6a018286631fbc0e52b450ad3166510e">
-        Une Enfance Fragmentée
-       </h2>
-<p>
-        Je m'appelle Jean-Pierre Rukundo. Je suis né au Burundi, en Afrique de l'Est. Ma mère m'a
+<h2>Une Enfance Fragmentée</h2>
+<p>Je m'appelle Jean-Pierre Rukundo. Je suis né au Burundi, en Afrique de l'Est. Ma mère m'a
                             donné naissance hors mariage à un jeune âge. Elle avait peur de m'élever en tant que mère
                             célibataire et voulait éviter les critiques qu'elle et toute sa famille auraient à
-                            affronter.
-       </p>
-<p data-i18n="c724c15899b32e098a1385c2646f52db">
-        Mon père, une personne influente dans la communauté, était marié et ne voulait pas divulguer
-                            mon existence. Ma mère a choisi de me faire vivre avec son frère et de me garder secret.
-       </p>
-<p data-i18n="061583d9e1d8d32159cfd87817988273">
-        J'ai été confié à mes grands-parents à l'âge d'un an, puis à l'âge de cinq ans, je suis allé
+                            affronter.</p>
+<p>Mon père, une personne influente dans la communauté, était marié et ne voulait pas divulguer
+                            mon existence. Ma mère a choisi de me faire vivre avec son frère et de me garder secret.</p>
+<p>J'ai été confié à mes grands-parents à l'âge d'un an, puis à l'âge de cinq ans, je suis allé
                             vivre chez mon oncle, qui avait eu un accident pendant son entraînement militaire et était
                             devenu paraplégique. Dès mon plus jeune âge, sous sa direction, j'ai appris à prendre soin
                             de lui tout en allant à l'école. Il m'a appris beaucoup de choses, surtout à m'adapter à
-                            toutes les situations et à tirer un résultat positif des circonstances désagréables.
-       </p>
-<p data-i18n="ad2ffb47dc359d32ddc3d3f3f0657601">
-        En grandissant, j'ai été confronté à des stigmates culturels et des préjugés concernant ma
+                            toutes les situations et à tirer un résultat positif des circonstances désagréables.</p>
+<p>En grandissant, j'ai été confronté à des stigmates culturels et des préjugés concernant ma
                             naissance. Les gens disaient : "c'est un orphelin" ou "il vient de la rue" ou "il vient du
                             marais". Tout le monde savait que mon oncle ne pouvait pas avoir d'enfant biologique, donc
                             il y avait une confusion sur mon origine, moi y compris. Mon oncle m'a donné des conseils
-                            positifs et m'a enseigné des compétences qui m'ont aidé à faire face.
-       </p>
-<p data-i18n="42887e3cd501d6a07567ab1c2d1c7dd8">
-        Déterminé à aller à l'encontre des schémas de pensée des préjugés, j'ai décidé de ne pas en
+                            positifs et m'a enseigné des compétences qui m'ont aidé à faire face.</p>
+<p>Déterminé à aller à l'encontre des schémas de pensée des préjugés, j'ai décidé de ne pas en
                             vouloir à ceux qui n'étaient pas gentils avec moi. Mon principe était "NE JAMAIS
-                            ABANDONNER".
-       </p>
-<h2 data-i18n="3ba01ab0bcd16abf6b1ce831a9025877">
-        Découvrir la Vérité
-       </h2>
-<p data-i18n="cb1eb8f123ee1a14948c6526e8972713">
-        À l'âge de 15 ans, j'ai rendu visite à ma mère et à sa famille pour la première fois. Elle
+                            ABANDONNER".</p>
+<h2>Découvrir la Vérité</h2>
+<p>À l'âge de 15 ans, j'ai rendu visite à ma mère et à sa famille pour la première fois. Elle
                             vivait à 50 km des casernes de mon oncle à Bujumbura. Je la rencontrais occasionnellement
                             lorsqu'elle venait à Bujumbura pour des ateliers ou des réunions familiales. Bien que je
                             savais que ses enfants étaient mes frères et sœurs, certains d'entre eux ne savaient pas qui
                             j'étais, pensant peut-être que j'étais un cousin. Cependant, ils étaient gentils avec moi.
-       </p>
-<p data-i18n="48860ec6cea79d1a7755cab98b1e787d">
-        À l'âge de 24 ans, j'ai exigé de ma mère qu'elle révèle tous les mystères concernant ma
+                        </p>
+<p>À l'âge de 24 ans, j'ai exigé de ma mère qu'elle révèle tous les mystères concernant ma
                             naissance. Elle a confirmé qui était mon père, ma date et mon lieu de naissance (la date que
                             je connaissais était erronée). Tout à mon sujet était un secret. Après quelques recherches,
                             j'ai rencontré mon père et sa famille. Étonnamment, mes nouveaux frères et sœurs m'ont
                             accueilli comme si nous étions en contact depuis longtemps. Nous avons traversé ensemble un
                             processus de connaissance mutuelle, qui s'est déroulé sans accroc, ce qui est inhabituel
-                            dans notre culture.
-       </p>
-<p data-i18n="1028ee8c6a00d07bed1300892d3b529e">
-        Finalement, mes frères et sœurs des deux côtés ont surmonté les stigmates entourant ma vie.
+                            dans notre culture.</p>
+<p>Finalement, mes frères et sœurs des deux côtés ont surmonté les stigmates entourant ma vie.
                             BRAVO! BRAVO! Aujourd'hui, j'ai ma propre famille de quatre personnes. Ma femme et moi avons
                             deux enfants qui ont de nombreux cousins, tantes et oncles qui les aiment beaucoup. Je
-                            pensais que j'étais installé et clair sur mon identité, mais ce n'était pas le cas.
-       </p>
-<p data-i18n="c60f46c95ed82b5dbd949130facda8e3">
-        En considérant l'amour que j'ai pour mes enfants, il est difficile de comprendre comment un
+                            pensais que j'étais installé et clair sur mon identité, mais ce n'était pas le cas.</p>
+<p>En considérant l'amour que j'ai pour mes enfants, il est difficile de comprendre comment un
                             parent peut ignorer son enfant pendant si longtemps. Cela n'avait pas de sens; j'ai été
                             essentiellement abandonné par mes propres parents. Pour cette raison, j'ai décidé d'aider
-                            ceux qui sont nés comme moi.
-       </p>
-<h2>
-        Mots d'espoir
-       </h2>
-<p>
-        J'ai appris que la société a un grand impact sur nos vies, à la
+                            ceux qui sont nés comme moi.</p>
+<h2>Mots d'espoir</h2>
+<p> J'ai appris que la société a un grand impact sur nos vies, à la
                             fois négatif et positif, c'est pourquoi enseigner la compréhension et le pardon est la clé
-                            d'une vie meilleure.
-       </p>
+                            d'une vie meilleure.</p>
 </div>
 </div>
 </div>
 <div class="pt-xl-5">
-<h6 data-i18n="22f719bd2183ade7961f65d93de276d5">
-      Jean-Pierre RUKUNDO
-     </h6>
-<span class="fst-italic">
-      Toronto, Canada
-     </span>
+<h6>Jean-Pierre RUKUNDO</h6>
+<span class="fst-italic">Toronto, Canada</span>
 </div>
 </div>
 </section>
@@ -295,53 +235,35 @@
 <div class="row g-5">
 <div class="col-lg-3 col-md-6">
 <h1 class="fw-bold text-primary mb-4">
-       Hobe
-       <span class="text-white">
-        Kibondo
-       </span>
+                        Hobe<span class="text-white">Kibondo</span>
 </h1>
 <p>
-       Panser les blessures de la séparation.
-      </p>
+                        Panser les blessures de la séparation.
+                    </p>
 <div class="d-flex pt-2">
-<a class="btn btn-square me-1" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/">
-<i class="fab fa-facebook-f">
-</i>
-</a>
+<a class="btn btn-square me-1" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
 </div>
 </div>
 <div class="col-lg-3 col-md-6">
 <h5 class="text-light mb-4">
-       Contactez Hobe Kibondo
-      </h5>
+                        Contactez Hobe Kibondo
+                    </h5>
 <p>
-<i class="fa fa-map-marker-alt me-3">
-</i>
-       20, av. Kunkiko Rohero II, Bujumbura
-      </p>
+<i class="fa fa-map-marker-alt me-3"></i>20, av. Kunkiko Rohero II, Bujumbura
+                    </p>
+<p><i class="fa fa-phone-alt me-3"></i>+257 675 80799</p>
 <p>
-<i class="fa fa-phone-alt me-3">
-</i>
-       +257 675 80799
-      </p>
-<p>
-       Restez informé avec Hobe.
-       <i class="fa fa-envelope me-3">
-</i>
-       info@hobe-kibondo.com
-      </p>
+                        Restez informé avec Hobe.<i class="fa fa-envelope me-3"></i>info@hobe-kibondo.com
+                    </p>
 </div>
 <div class="col-lg-3 col-md-6">
 <h5 class="text-light mb-4">
-       Liens utiles
-      </h5>
-<a class="btn btn-link" href="../terms-of-service.html">
-       Conditions générales
-      </a>
-<a class="btn btn-link" href="../contact.html">
-       Nous
+                        Liens utiles
+                    </h5>
+<a class="btn btn-link" href="../terms-of-service.html">Conditions générales</a>
+<a class="btn btn-link" href="../contact.html">Nous
                         joindre
-      </a>
+                    </a>
 <!-- <a class="btn btn-link" href="">Support
                         Hobe</a> -->
 <!-- <a class="btn btn-link" href="">Support</a> -->
@@ -349,17 +271,17 @@
 </div>
 <div class="col-lg-3 col-md-6">
 <h5 class="text-light mb-4">
-       Restez informé avec notre newsletter
-      </h5>
+                        Restez informé avec notre newsletter
+                    </h5>
 <p>
-       Rejoignez notre communauté et restez informé de nos
+                        Rejoignez notre communauté et restez informé de nos
                         actions.
-      </p>
+                    </p>
 <div class="position-relative mx-auto" style="max-width: 400px">
 <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" placeholder="Courriel" type="text"/>
 <button class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2" type="button">
-        Inscrivez-vous
-       </button>
+                            Inscrivez-vous
+                        </button>
 </div>
 </div>
 </div>
@@ -368,17 +290,12 @@
 <div class="container">
 <div class="row">
 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-       ©
-       <a href="#">
-        Hobe Kibondo
-       </a>
-       , Tous droits réservés
-      </div>
+                        ©
+                        <a href="#">Hobe Kibondo</a>, Tous droits réservés
+                    </div>
 <div class="col-md-6 text-center text-md-end">
-<a href="https://lifeninc.com">
-        Conception par
-                            LifenInc
-       </a>
+<a href="https://lifeninc.com">Conception par
+                            LifenInc</a>
 </div>
 </div>
 </div>
@@ -386,22 +303,14 @@
 </div>
 <!-- Footer End -->
 <!-- JavaScript Libraries -->
-<script src="https://code.jquery.com/jquery-3.4.1.min.js">
-</script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js">
-</script>
-<script src="../lib/wow/wow.min.js">
-</script>
-<script src="../lib/easing/easing.min.js">
-</script>
-<script src="../lib/waypoints/waypoints.min.js">
-</script>
-<script src="../lib/owlcarousel/owl.carousel.min.js">
-</script>
-<script src="../lib/parallax/parallax.min.js">
-</script>
+<script src="js/localization.js"></script><script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../lib/wow/wow.min.js"></script>
+<script src="../lib/easing/easing.min.js"></script>
+<script src="../lib/waypoints/waypoints.min.js"></script>
+<script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="../lib/parallax/parallax.min.js"></script>
 <!-- Template Javascript -->
-<script src="../js/main.js">
-</script>
+<script src="../js/main.js"></script>
 </body>
 </html>

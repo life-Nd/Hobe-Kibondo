@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<title>
+    Hobe Kibondo - Témoignages
+  </title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="keywords"/>
+<meta content="" name="description"/>
+<!-- Favicon -->
+<link href="../assets/images/hobe-banner1.webp" rel="icon"/>
+<!-- Google Web Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Saira:wght@500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Icon Font Stylesheet -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"/>
+<!-- Libraries Stylesheet -->
+<link href="../lib/animate/animate.min.css" rel="stylesheet"/>
+<link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet"/>
+<!-- Customized Bootstrap Stylesheet -->
+<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+<!-- <link href="../css/testimony.css" rel="stylesheet"> -->
+<!-- Template Stylesheet -->
+<link href="../css/style.css" rel="stylesheet"/>
+</head>
+<body>
+<!-- <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close">
+                <span class="icofont-close js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body">
+            <ul class="site-nav-wrap">
+                <li><a href="../index.html">Home</a></li>
+                <li class="has-children active">
+                    <span class="arrow-collapse collapsed" data-bs-toggle="collapse"
+                        data-bs-target="#collapseItem0"></span><a href="../category.html">Pages</a>
+                    <ul class="collapse" id="collapseItem0">
+                        <li><a href="search-../result.html">Search Result</a></li>
+                        <li><a href="../blog.html">Blog</a></li>
+                        <li class="active"><a href="../single.html">Blog Single</a></li>
+                        <li><a href="../category.html">Category</a></li>
+                        <li><a href="../about.html">About</a></li>
+                        <li><a href="../contact.html">Contact Us</a></li>
+                        <li><a href="#">Menu One</a></li>
+                        <li><a href="#">Menu Two</a></li>
+                        <li class="has-children">
+                            <span class="arrow-collapse collapsed" data-bs-toggle="collapse"
+                                data-bs-target="#collapseItem1"></span><a href="#">Dropdown</a>
+                            <ul class="collapse" id="collapseItem1">
+                                <li><a href="#">Sub Menu One</a></li>
+                                <li><a href="#">Sub Menu Two</a></li>
+                                <li><a href="#">Sub Menu Three</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="../category.html">Culture</a></li>
+                <li><a href="../category.html">Business</a></li>
+                <li><a href="../category.html">Politics</a></li>
+            </ul>
+        </div>
+    </div> -->
+<!-- Spinner Start -->
+<!-- <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div> -->
+<!-- Spinner End -->
+<!-- Spinner Start -->
+<div class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center" id="spinner">
+<div class="spinner-grow text-primary" role="status"></div>
+</div>
+<!-- Spinner End -->
+<!-- Navbar Start -->
+<div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
+<div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
+<div class="col-lg-6 px-5 text-start">
+<small><i class="fa fa-map-marker-alt me-2"></i>20, av. Kunkiko Rohero II,
+          Bujumbura</small>
+<small class="ms-4"><i class="fa fa-envelope me-2"></i>info@hobe-kibondo.com</small>
+</div>
+<div class="col-lg-6 px-5 text-end">
+<small>Suivez Hobe Kibondo sur nos réseaux sociaux :</small>
+<a class="text-white-50 ms-3" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
+</div>
+</div>
+<nav class="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s" style="align-items: center;">
+<a class="navbar-brand ms-4 ms-lg-0" href="../index.html">
+<img alt="Hobe Kibondo" fill="" sizes="(max-width: 100px) 100px, 100px" src="../assets/images/hobe-no-bg-sm.png" srcset="
+          ../assets/images/hobe-no-bg-sm.png 1x,
+          ../assets/images/hobe-no-bg-sm.png
+        " style="width: 100px; height: 70px; overflow: hidden"/>
+</a>
+<button class="navbar-toggler me-4" data-bs-target="#navbarCollapse" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<div class="navbar-nav ms-auto p-4 p-lg-0">
+<a class="nav-item nav-link" href="../index.html">Accueil</a>
+<a class="nav-item nav-link" href="../actions.html">Nos actions
+          </a>
+<a class="nav-item nav-link active" href="../testimonies.html">Témoignages
+          </a>
+<a class="nav-item nav-link" href="../about.html">À propos de
+            nous
+          </a>
+</div>
+<div class="d-none d-lg-flex ms-2">
+<a class="btn btn-outline-primary py-2 px-3" href="../contact.html">
+            Nous joindre
+            <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+<i class="fa fa-arrow-right"></i>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<!-- Navbar End -->
+<!-- Page Header Start -->
+<div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
+<div class="container text-center">
+<div class="mt-10" style="padding-top: 370px">
+<!-- <h1 class="display-4 text-white animated slideInDown mb-4">
+                    Témoignage</h1> -->
+<nav aria-label="breadcrumb animated slideInDown">
+<ol class="breadcrumb justify-content-center mb-0">
+<li aria-current="page" class="breadcrumb-item">
+<a class="text-white" href="../index.html">Accueil</a>
+</li>
+<li class="breadcrumb-item">
+<a class="text-white" href="../testimonies.html">Témoignages</a>
+</li>
+<li aria-current="page" class="breadcrumb-item text-primary active">
+              Caroline
+            </li>
+</ol>
+</nav>
+</div>
+</div>
+</div>
+<!-- Page Header End -->
+<div class="site-cover site-cover-sm same-height overlay single-page">
+<div class="container">
+<div class="row same-height justify-content-center">
+<div class="col-md-6">
+<div class="post-entry text-center">
+<h1 class="mt-4 mb-4">Orpheline mais pas seule</h1>
+<div class="post-meta align-items-center text-center p-4">
+<figure class="author-figure mb-0 me-3 d-inline-block">
+<img alt="Image" class="img-fluid" src="../assets/images/caroline.jpg" style="
+                      max-height: 350px;
+                      max-width: 350px;
+                      border-radius: 20px;
+                    "/>
+</figure>
+<span class="d-inline-block mt-1">Par Caroline MUVIRA</span>
+<span> -  13 Mars 2024</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="section">
+<div class="container">
+<div class="row blog-entries element-animate">
+<div class="col-md-12 col-lg-8 main-content">
+<div class="post-content-body">
+<h1>ADOPTÉE !</h1>
+<h2>Introduction</h2>
+<p>
+              J'ai été abandonnée quelques jours après ma naissance. Grâce
+              à Dieu, des gens formidables m'ont accueillie chez eux.
+              Voici la petite histoire de ma vie.
+            </p>
+<h2>Enfance et découverte</h2>
+<p>
+              J'ai eu une enfance merveilleuse, mes parents étaient
+              aimants et attentionnés. Mais en grandissant, j'ai senti que
+              quelque chose n'allait pas, mais je n'y ai pas prêté
+              attention.
+            </p>
+<p>
+              Au fil du temps, ce sentiment s'est renforcé, et un jour,
+              mon monde s'est écroulé. En rentrant de l'école avec des
+              amis, nous discutions de nos parents et l'un d'eux a
+              lancé : "De toute façon, tu n'es pas leur enfant".
+              J'ai traité les autres enfants de menteurs, mais dans leurs
+              yeux, je voyais la conviction que c'était la vérité.
+            </p>
+<p>
+              Je me suis précipitée à la maison en pleurant et en criant. Ma
+              mère, qui était à la maison à ce moment-là, m’a rejointe dans ma
+              chambre. Je lui ai demandé : "Maman, est-ce vrai que je ne
+              suis pas ton enfant ?"
+            </p>
+<p>
+              Et j'ai vu dans ses yeux toute la peine, tout le déchirement. Elle est sortie et a appelé
+              mon père qui vivait en France pour lui annoncer que je savais que je n'étais pas leur
+              enfant.
+            </p>
+<p>
+              Elle est revenue dans ma chambre en pleurant et a laissé la vérité s'échapper, je n'étais
+              pas leur enfant, ma mère biologique m'avait abandonnée à l'hôpital et je me suis
+              retrouvée à l'orphelinat des Sœurs Missionnaires de la Charité de Calcutta au Burundi.,
+              J’ai été le premier bébé de la mission à être adopté.
+            </p>
+<h2>Conséquences et réactions</h2>
+<p>
+              À ce moment-là, j'ai essayé de traiter toutes les informations qu'elle me donnait. Elle me
+              répétait : "On voulait te le dire à tes 18 ans", mais pour moi cette vérité m'avait été
+              cachée et c'est juste ça qui comptait.
+            </p>
+<p>
+              À l'intérieur, j'étais brisée, mais je sais qu'elle l'était aussi.
+            </p>
+<p>
+              Maintenant que je suis parent moi-même, je comprends. Elle voulait me protéger de
+              peur que cela ne m'affecte, mais elle s'est vue privée de l'opportunité de me le dire elle-
+              même.
+            </p>
+<p>Je ne lui en veux plus, et regrette de lui en avoir voulu.</p>
+<p>
+              Elle m'a élevée comme sa propre fille, m'a aimée comme sa propre fille, m'a donné plus
+              que le nécessaire et aime mes filles plus que tout.
+
+            </p>
+<p>
+              Ensemble, nous avons essayé de retrouver ma mère biologique, mais en vain.
+            </p>
+<h2>Engagement associatif</h2>
+<p>
+              Pendant plusieurs années, nous sommes allées tous les dimanches à l'orphelinat avec
+              ma mère, des amies nous ont rejoint, et à la fin nous étions un bon groupe pour faire du
+              bénévolat (jouer avec les bébés, apporter de la nourriture, des vêtements, etc...).
+              Nous avons continué jusqu'à notre départ du Burundi.
+            </p>
+<p>
+              J'ai emmené ma fille à l'orphelinat lors du 25ème anniversaire de l’Orphelinat de Kajaga.
+              En tant que 1ere adoptée, j’ai même prononcé un discours, un mot de gratitude et
+              d’encouragement.
+            </p>
+<p>
+              Je n'oublierai jamais la joie sur le visage des soeurs en voyant tous ces enfants qu'ils
+              avaient confiés à des familles revenir des années plus tard avec leurs propres enfants.
+
+            </p>
+<h2>Message aux adoptés</h2>
+<p>
+              Si les recherches pour retrouver votre famille de sang
+              n'aboutissent pas, faites le deuil et vivez votre vie,
+              réussissez, fondez votre propre famille, chérissez-la, soyez
+              courageux, la vie vaut la peine d'être vécue.
+            </p>
+<h2>Message aux parents adoptifs</h2>
+<p>
+              Je comprends qu'il soit parfois difficile de nous dire que vous
+              nous avez adoptés, et vous avez vos raisons.
+            </p>
+<p>
+              Dans mon cas, j'aurais aimé le savoir, cela aurait été une
+              preuve de confiance mutuelle.
+            </p>
+<h2>Remerciements</h2>
+<p>
+              À mes parents : Je veux simplement vous remercier, car vous
+              aviez le choix entre le petit garçon et moi, et c'est moi que
+              vous avez accueillie chez vous et merci d'avoir été une famille
+              présente et aimante.
+            </p>
+<p>
+              Je suis plus que reconnaissanté pour vos sacrifices. Si je
+              devais choisir mes parents, ce serait vous un million de fois.
+            </p>
+<p>
+              À toi, ma mère biologique : Merci pour le sacrifice que tu as
+              fait, merci pour le don de la vie. Je sais que cela n'a pas été
+              facile de me laisser derrière, sache simplement que je te
+              respecte et que je suis vraiment reconnaissanté pour les
+              opportunités que tu m'as données.
+            </p>
+<h2>Mots d'espoir</h2>
+<p>
+              J'ai toujours eu l'impression de ne pas être à la hauteur, peu importe ce que je faisais,
+              L'estime de soi a été durement touchée.
+            </p>
+<p>
+              Pensez positivement, reconnaissez que vous avez été choisis parmi des centaines
+              d'enfants pour faire partie de cette famille, vous lui avez apporté la vie et la joie.
+              N'écoutez pas ceux qui vous diront que vous n'êtes pas dignes de cette famille, VOUS
+              ÊTES DIGNES.
+            </p>
+</div>
+</div>
+</div>
+<div class="pt-xl-5">
+<h6>Caroline MUVIRA, Fondatrice</h6>
+<!-- <span class="fst-italic">Ottawa, Canada</span> -->
+</div>
+</div>
+</section>
+<!-- END main-content -->
+<!-- Footer Start -->
+<div class="container-fluid bg-dark text-white-50 footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s" style="width: 100%">
+<div class="container py-5">
+<div class="row g-5">
+<div class="col-lg-3 col-md-6">
+<h1 class="fw-bold text-primary mb-4">
+            Hobe<span class="text-white">Kibondo</span>
+</h1>
+<p>
+            Panser les blessures de la séparation.
+          </p>
+<div class="d-flex pt-2">
+<a class="btn btn-square me-1" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
+</div>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+            Contactez Hobe Kibondo
+          </h5>
+<p>
+<i class="fa fa-map-marker-alt me-3"></i>20, av. Kunkiko Rohero II, Bujumbura
+          </p>
+<p>
+<i class="fa fa-map-marker-alt me-3"></i>505-230 Brittany dr, K1K 0R6, Ottawa, CANADA
+          </p>
+<p><i class="fa fa-phone-alt me-3"></i>+257 675 80799</p>
+<p>
+            Restez informé avec Hobe.<i class="fa fa-envelope me-3"></i>info@hobe-kibondo.com
+          </p>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+            Liens utiles
+          </h5>
+<a class="btn btn-link" href="../terms-of-service.html">Conditions générales</a>
+<a class="btn btn-link" href="../contact.html">Nous Joindre</a>
+<!-- <a class="btn btn-link" href="">Support
+                        Hobe</a> -->
+<!-- <a class="btn btn-link" href="">Support</a> -->
+<!-- <a class="btn btn-link" href="">Support</a> -->
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+            Restez informé avec notre newsletter
+          </h5>
+<p>
+            Rejoignez notre communauté et restez informé de nos
+            actions.
+          </p>
+<div class="position-relative mx-auto" style="max-width: 400px">
+<input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" placeholder="Courriel" type="text"/>
+<button class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2" type="button">
+              Inscrivez-vous
+            </button>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+            ©
+            <a href="#">Hobe Kibondo</a>, Tous droits réservés
+          </div>
+<div class="col-md-6 text-center text-md-end">
+<a href="https://lifeninc.com">Conception par LifenInc</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Footer End -->
+<!-- JavaScript Libraries -->
+<script src="js/localization.js"></script><script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../lib/wow/wow.min.js"></script>
+<script src="../lib/easing/easing.min.js"></script>
+<script src="../lib/waypoints/waypoints.min.js"></script>
+<script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="../lib/parallax/parallax.min.js"></script>
+<!-- Template Javascript -->
+<script src="../js/main.js"></script>
+</body>
+</html>

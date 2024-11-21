@@ -457,3 +457,20 @@
     object-fit: cover;
 
 }
+.language-selector {
+    padding: 5px;
+    margin:5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    z-index: 999;
+}
+
+.language-selector:hover {
+    border-color: #007bff;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}

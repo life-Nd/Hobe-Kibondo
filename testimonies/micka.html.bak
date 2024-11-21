@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<title>
+      Hobe Kibondo - Témoignages
+    </title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="" name="keywords"/>
+<meta content="" name="description"/>
+<!-- Favicon -->
+<link href="../assets/images/hobe-banner1.webp" rel="icon"/>
+<!-- Google Web Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Saira:wght@500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Icon Font Stylesheet -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"/>
+<!-- Libraries Stylesheet -->
+<link href="../lib/animate/animate.min.css" rel="stylesheet"/>
+<link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet"/>
+<!-- Customized Bootstrap Stylesheet -->
+<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+<!-- <link href="../css/testimony.css" rel="stylesheet"> -->
+<!-- Template Stylesheet -->
+<link href="../css/style.css" rel="stylesheet"/>
+</head>
+<body>
+<!-- <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close">
+                <span class="icofont-close js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body">
+            <ul class="site-nav-wrap">
+                <li><a href="index.html">Home</a></li>
+                <li class="has-children active">
+                    <span class="arrow-collapse collapsed" data-bs-toggle="collapse"
+                        data-bs-target="#collapseItem0"></span><a href="category.html">Pages</a>
+                    <ul class="collapse" id="collapseItem0">
+                        <li><a href="search-result.html">Search Result</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li class="active"><a href="single.html">Blog Single</a></li>
+                        <li><a href="category.html">Category</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="#">Menu One</a></li>
+                        <li><a href="#">Menu Two</a></li>
+                        <li class="has-children">
+                            <span class="arrow-collapse collapsed" data-bs-toggle="collapse"
+                                data-bs-target="#collapseItem1"></span><a href="#">Dropdown</a>
+                            <ul class="collapse" id="collapseItem1">
+                                <li><a href="#">Sub Menu One</a></li>
+                                <li><a href="#">Sub Menu Two</a></li>
+                                <li><a href="#">Sub Menu Three</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="category.html">Culture</a></li>
+                <li><a href="category.html">Business</a></li>
+                <li><a href="category.html">Politics</a></li>
+            </ul>
+        </div>
+    </div> -->
+<!-- Spinner Start -->
+<!-- <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div> -->
+<!-- Spinner End -->
+<!-- Spinner Start -->
+<div class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center" id="spinner">
+<div class="spinner-grow text-primary" role="status"></div>
+</div>
+<!-- Spinner End -->
+<!-- Navbar Start -->
+<div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
+<div class="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
+<div class="col-lg-6 px-5 text-start">
+<small><i class="fa fa-map-marker-alt me-2"></i>20, av. Kunkiko Rohero II,
+            Bujumbura, BURUNDI</small>
+<small class="ms-4"><i class="fa fa-envelope me-2"></i>info@hobe-kibondo.com</small>
+</div>
+<div class="col-lg-6 px-5 text-end">
+<small>Suivez Hobe Kibondo sur nos réseaux sociaux :</small>
+<a class="text-white-50 ms-3" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
+<!-- <a class="text-white-50 ms-3" href=""
+            ><i class="fab fa-twitter"></i
+          ></a>
+          <a class="text-white-50 ms-3" href=""
+            ><i class="fab fa-linkedin-in"></i
+          ></a>
+          <a class="text-white-50 ms-3" href=""
+            ><i class="fab fa-instagram"></i
+          ></a> -->
+</div>
+</div>
+<nav class="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s" style="align-items: center">
+<a class="navbar-brand ms-4 ms-lg-0" href="../index.html">
+<img alt="Hobe Kibondo" fill="" sizes="(max-width: 100px) 100px, 100px" src="../assets/images/hobe-no-bg-sm.png" srcset="
+              ../assets/images/hobe-no-bg-sm.png 1x,
+              ../assets/images/hobe-no-bg-sm.png
+            " style="width: 100px; height: 70px; overflow: hidden"/>
+</a>
+<button class="navbar-toggler me-4" data-bs-target="#navbarCollapse" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarCollapse">
+<div class="navbar-nav ms-auto p-4 p-lg-0">
+<a class="nav-item nav-link" href="../index.html">Accueil</a>
+<a class="nav-item nav-link" href="../actions.html">Nos actions
+            </a>
+<a class="nav-item nav-link active" href="../testimonies.html">Témoignages
+            </a>
+<a class="nav-item nav-link" href="../about.html">À propos de nous
+            </a>
+</div>
+<div class="d-none d-lg-flex ms-2">
+<a class="btn btn-outline-primary py-2 px-3" href="../contact.html">
+              Nous joindre
+              <div class="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">
+<i class="fa fa-arrow-right"></i>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<!-- Navbar End -->
+<!-- Page Header Start -->
+<div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
+<div class="container text-center">
+<div class="mt-10" style="padding-top: 370px">
+<!-- <h1 class="display-4 text-white animated slideInDown mb-4">
+                    Témoignage</h1> -->
+<nav aria-label="breadcrumb animated slideInDown">
+<ol class="breadcrumb justify-content-center mb-0">
+<li aria-current="page" class="breadcrumb-item">
+<a class="text-white" href="../index.html">Accueil</a>
+</li>
+<li class="breadcrumb-item">
+<a class="text-white" href="../testimonies.html">Témoignages</a>
+</li>
+<li aria-current="page" class="breadcrumb-item text-primary active">
+                Micka
+              </li>
+</ol>
+</nav>
+</div>
+</div>
+</div>
+<!-- Page Header End -->
+<div class="site-cover site-cover-sm same-height overlay single-page">
+<div class="container">
+<div class="row same-height justify-content-center">
+<div class="col-md-6">
+<div class="post-entry text-center">
+<h1 class="mt-4 mb-4">L'enfant aux racines inconnues</h1>
+<div class="post-meta align-items-center p-4 text-center">
+<figure class="author-figure mb-0 me-3 d-inline-block">
+<img alt="Image" class="img-fluid" src="../assets/images/icon_avatar.png" style="max-width: 100px; max-height: 100px"/>
+</figure>
+<span class="d-inline-block mt-1">Par Micka</span>
+<span> -  17 Mars 2024</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="section">
+<div class="container">
+<div class="row blog-entries element-animate">
+<p class="col-md-12 col-lg-8 main-content"></p>
+<div class="post-content-body">
+<p>
+              A celles et ceux qui me liront, je vous adresse mes chaleureuses
+              salutations, non seulement de la part de l'enfant et de
+              l'adolescente que je fus, mais surtout de la femme accomplie
+              que je suis devenue aujourd'hui, actrice de ma propre vie.
+            </p>
+<h2>Enfance brisée</h2>
+<p>
+              La découverte de mon adoption a déclenché en moi une tempête
+              d'émotions, je me suis sentie à la fois trahie et indésirable.
+              Ma mère adoptive m'avait caché cette vérité, et mes parents
+              biologiques m'avaient, dans mon esprit, simplement abandonnée.
+            </p>
+<h2>Un sentiment d'abandon</h2>
+<p>
+              À l'âge où l'on atteint la maturité et la lucidité,
+              j'ai compris avec désolation que je n'étais pas
+              qu'orpheline, mais en plus que j'étais sans famille et que
+              mes racines m'étaient totalement inconnues !
+            </p>
+</div>
+<p>
+            Peut-être que ma mère se trouvait quelque part, avec ou sans
+            remords, et qu'elle continuait à mener sa vie, peut-être
+            qu'elle était réellement morte ! Une chose est sûre, je suis née
+            à la maternité de l'hôpital Prince Régent Charles à Bujumbura
+            dans les années 60.
+          </p>
+<h2>Souvenirs douloureux</h2>
+<p>
+            Souvent, je dormais recroquevillée sur le seuil de la porte où « ma
+            mère » avait souvent l'habitude de me laisser pour me punir – je
+            ne sais pour quelle faute – pour mériter des nuits de frayeur !
+            Heureusement pour moi, il n'y avait pas de loups à Bujumbura !
+          </p>
+<p>
+            Oui, j'étais une enfant battue, une enfant martyr. Quand je
+            jouais dans une carcasse de vieille voiture avec des petits garçons
+            de mon âge, nous avions à peine 6 ans, elle m'extirpait de là
+            manu militari et commençait à me brûler la face interne des cuisses
+            avec des mégots en me disant que je ne devrais pas jouer avec les
+            garçons. C'était horrible !
+          </p>
+<p>
+            Les nuits dehors se suivaient et se ressemblaient. Aujourd'hui,
+            lorsque je me promène dans les interminables rues de Bujumbura, je
+            vois des ribambelles d'enfants qui vivent dans la rue, souvent
+            en bandes. Certains ont l'âge que j'avais. J'ignore quel
+            sort les a emmenés là ; à mon époque, les enfants de rue
+            n'existaient pas. Égoïstement, j'aurais aimé avoir un petit
+            compagnon de nuit pour m'aider à compter les étoiles dans le
+            ciel, histoire d'oublier un instant un danger qui pouvait surgir
+            de nulle part.
+          </p>
+<h2>La découverte de la vérité</h2>
+<p>
+            Un soir, réveillée dans l'obscurité d'une nuit sans étoiles
+            par les pas d'une dame voisine, lampe à pétrole à la main pour
+            s'éclairer vers la seule toilette commune, j'ai entendu ses
+            murmures audibles en swahili (mes voisins à Bwiza étaient tous des
+            Congolais) : « Humm, on voit bien pourquoi elle maltraite ce pauvre
+            enfant, c'est parce que ce n'est pas le sien !» J'ai
+            compris et appris que ma mère n'était pas ma mère.
+          </p>
+<p>
+            Je ne sais pas comment elle l'avait appris, mais qu'à cela
+            ne tienne, le ciel venait d'être témoin d'une triste et
+            amère révélation. Depuis cette nuit, dans la tête de la petite
+            enfant que j'étais, tout a basculé. Pourtant, cette dame avec sa
+            lampe à pétrole qui compatissait de me voir là, ni elle ni les
+            autres voisins n'ont jamais pensé à me prendre dans leur maison
+            pour m'allonger sur une petite natte, histoire de me réchauffer
+            le cœur l'espace d'une nuit, alors que j'avais l'âge
+            de leurs enfants. Petit à petit, j'ai compris que mes malheurs
+            étaient ceux d'un autre et ne touchaient personne, même si la
+            compassion n'a jamais aidé personne, un geste minime fût-il…
+          </p>
+<h2>L'orphelinat</h2>
+<p>
+            Vers l'âge de 10 ans, l'assistante sociale de l'école
+            Notre-Dame et la seule personne que je soupçonne de connaître ma
+            vraie histoire (l'institutrice apparentée à ma mère adoptive qui
+            refuse toujours de me renseigner pour des raisons que je préfère
+            taire) ont statué sur mon sort et décidé de m'arracher à ma mère
+            adoptive. Elles m'ont envoyé à l'orphelinat avec
+            l'accord des autorités. J'étais triste de devoir la quitter
+            malgré la souffrance qu'elle m'infligeait. Je l'aimais,
+            c'était ma mère, je ne connaissais qu'elle.
+          </p>
+<p>
+            Certaines femmes ou mères détournaient leur regard devant leurs
+            enfants lorsque nous passions en groupe, habillés en uniforme,
+            reconnaissables au loin parce que obligés d'emprunter toujours
+            le même chemin qui nous menait à la messe du dimanche pour implorer
+            secrètement Dieu de nous ramener nos parents ? Ses voies restaient
+            pourtant impénétrables. Ces mêmes femmes crachaient par terre à
+            défaut de cracher sur nous en disant « ehe za mpfuvyi » comme si on
+            avait choisi d'être orphelins !
+          </p>
+<h2>Un nom lourd à porter</h2>
+<p>
+            Comme si cela ne suffisait pas, Imelda m'a donné le nom de
+            NZIKOBANYANKA (je sais qu'on me déteste). Ce nom était trop
+            lourd à porter pour un enfant orphelin ou abandonné. Il a été un
+            fardeau tout au long de mon existence, mais aujourd'hui,
+            j'ai appris à le supporter, à l'apprivoiser. Il m'a
+            accompagnée, et je l'accepte désormais.
+          </p>
+<div class="row my-4 w-100">
+<div class="col-md-12 mb-4 justify-content-center">
+<img alt="Image placeholder" class="img-fluid rounded" src="../assets/images/Micka-Then.jpeg" style="height: 400px;"/>
+</div>
+</div>
+<h2>Pardonner pour avancer</h2>
+<p>
+            Toutes ces horreurs que j'ai vécues sont gravées dans ma mémoire
+            d'enfant. Je n'ai rien oublié, même l'âge n'a pas
+            effacé ces souvenirs. Cependant, j'ai réussi à pardonner afin de
+            pouvoir vivre en paix avec moi-même et avec le monde qui
+            m'entoure.
+          </p>
+<h2>À la recherche de mes origines</h2>
+<p>
+            Pour faire un enfant, il faut être deux. Curieusement, je n'ai
+            jamais ressenti un manque de père. Toutes mes pensées tristes me
+            ramenaient toujours à ma mère. L'enfant est toujours lié à sa
+            mère par le cordon ombilical, et ce lien ne se rompt jamais !
+          </p>
+<h2>Un choix difficile</h2>
+<p>
+            Ne voulant pas souffrir davantage, j'ai tout refoulé. Je
+            n'ai pas cherché mes parents biologiques de peur d'avoir des
+            surprises. Lorsque j'étais prête à accepter de connaître mon
+            histoire, c'était trop tard. Toutes les personnes qui auraient
+            pu me renseigner étaient déjà décédées. Heureusement pour moi, la
+            nature m'a dotée d'une joie de vivre et d'une force
+            mentale qui m'ont permis, non pas de me résigner, mais
+            d'accepter ma condition. Très tôt, j'ai pris la vie avec
+            légèreté, car c'était ma destinée.
+          </p>
+<h2>Un message d'espoir</h2>
+<p>
+            Aujourd'hui, adulte accomplie, le vécu de mon enfance est
+            derrière moi. Le passé m'a toujours aidée à avancer et à devenir
+            la personne que je suis. J'ai choisi de ne pas avoir
+            d'enfants, mais j'aide les autres à ma façon.
+            L'honnêteté, la justice, la tolérance et la compréhension de
+            l'autre restent mes valeurs principales.
+          </p>
+<p>
+            Nulle loi au monde n'a le droit de priver un enfant de connaître
+            ses parents, quelles que soient les circonstances entourant sa
+            naissance. Par ailleurs, je conseille aux enfants adoptés,
+            abandonnés ou placés de chercher leurs parents biologiques tant
+            qu'il est encore temps. Dans ma profession d'infirmière, je
+            rencontre souvent des enfants adoptés qui ne veulent pas connaître
+            leurs origines. Je les comprends, mais c'est dommage !
+          </p>
+<h2>Mon message pour les orphelins</h2>
+<p>
+            Je ne me plains jamais de mon sort et je refuse la pitié. Je trouve
+            que j'ai eu beaucoup de chance comparée à beaucoup d'enfants
+            qui ont grandi comme moi. En tant qu'infirmière, je côtoie la
+            misère humaine, la souffrance morale et physique. Je m'en suis
+            bien sortie et je suis fière de la personne que je suis devenue.
+            Merci la vie !
+          </p>
+<div class="mb-4">
+<img alt="Image placeholder" class="img-fluid rounded" src="../assets/images/Micka-Now.jpeg" style="height: 500px;"/>
+</div>
+<p>
+            À côté de toutes ces expériences malheureuses vécues et que des
+            milliers d'enfants abandonnés accueillis ou adoptés continuent à
+            subir, il y a des femmes et des hommes au cœur immense qui ne
+            demandent qu'à le partager avec un petit bout d'innocent qui
+            n'a qu'un sourire à offrir.
+          </p>
+<h2>Un appel à l'action</h2>
+<p>
+            Je remercie Vinciane et son association qui m'ont demandé de
+            témoigner. Je voudrais également souligner la difficulté de leur
+            action qui consiste à aider les enfants à retrouver leurs origines
+            et leurs parents.
+          </p>
+<p>
+            Je pourrais écrire des pages et des pages entières, mais je me suis
+            limitée pour ne pas lasser le lecteur, comme je l'ai déjà
+            évoqué. Comme le chanteur Jean-Jacques Goldman l'a si bien
+            chanté dans sa magnifique chanson : "Le monde a ses malheurs,
+            ses douleurs qui ne te touchent, qui ne me touchent, qui ne les
+            touchent plus..." Que la providence bénisse l'action de
+            Hobe Kibondo "Panser les blessures de la séparation".
+          </p>
+<h2>Conclusion</h2>
+<p>
+            Mon témoignage n'est qu'une histoire parmi tant
+            d'autres. Il a pour but de sensibiliser le public à la
+            souffrance des enfants abandonnés et orphelins, et de rappeler
+            l'importance du respect des droits fondamentaux de tous les
+            enfants, y compris le droit de connaître leurs origines.
+            J'espère que mon histoire incitera les gens à adopter, à
+            soutenir les orphelinats et les associations qui aident les enfants
+            à retrouver leurs familles, et à lutter contre l'abandon et la
+            maltraitance des enfants.
+          </p>
+<p>
+            N'oubliez jamais : chaque enfant mérite d'être aimé et
+            protégé.
+          </p>
+</div>
+<h2>Mots d'espoir</h2>
+<p>
+          À tous les orphelins ou les enfants abandonnés, soyez forts ! On peut
+          vivre sans famille, sans parents, j'en suis l'exemple. Trouvez
+          juste votre chemin et surtout soyez reconnaissants à la vie.
+        </p>
+<div class="pt-xl-5">
+<h5 class="mb-1">Micka</h5>
+<span class="fst-italic">Bruxelles, Belgique</span>
+</div>
+</div>
+</section>
+<!-- Footer Start -->
+<div class="container-fluid bg-dark text-white-50 footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s" style="width: 100%">
+<div class="container py-5">
+<div class="row g-5">
+<div class="col-lg-3 col-md-6">
+<h1 class="fw-bold text-primary mb-4">
+              Hobe<span class="text-white">Kibondo</span>
+</h1>
+<p>
+              Panser les blessures de la séparation.
+            </p>
+<div class="d-flex pt-2">
+<!-- <a class="btn btn-square me-1" href=""
+                ><i class="fab fa-twitter"></i
+              ></a> -->
+<a class="btn btn-square me-1" href="https://www.facebook.com/people/Hobe-Kibondo/61564044841389/"><i class="fab fa-facebook-f"></i></a>
+<!-- <a class="btn btn-square me-1" href=""
+                ><i class="fab fa-youtube"></i
+              ></a> -->
+<!-- <a class="btn btn-square me-0" href=""
+                ><i class="fab fa-linkedin-in"></i
+              ></a> -->
+</div>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+              Contactez Hobe Kibondo
+            </h5>
+<p>
+<i class="fa fa-map-marker-alt me-3"></i>20, av. Kunkiko Rohero
+              II, Bujumbura, BURUNDI
+            </p>
+<p>
+<i class="fa fa-map-marker-alt me-3"></i>505-230 Brittany dr, K1K
+              0R6, Ottawa, CANADA
+            </p>
+<p><i class="fa fa-phone-alt me-3"></i>+257 675 80799</p>
+<p>
+              Restez informé avec Hobe.<i class="fa fa-envelope me-3"></i>info@hobe-kibondo.com
+            </p>
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+              Liens utiles
+            </h5>
+<a class="btn btn-link" href="../terms-of-service.html">Conditions générales</a>
+<a class="btn btn-link" href="../contact.html">Nous joindre
+            </a>
+<!-- <a class="btn btn-link" href="">Support
+                        Hobe</a> -->
+<!-- <a class="btn btn-link" href="">Support</a> -->
+<!-- <a class="btn btn-link" href="">Support</a> -->
+</div>
+<div class="col-lg-3 col-md-6">
+<h5 class="text-light mb-4">
+              Restez informé avec notre newsletter
+            </h5>
+<p>
+              Rejoignez notre communauté et restez informé de nos
+              actions.
+            </p>
+<div class="position-relative mx-auto" style="max-width: 400px">
+<input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" placeholder="Courriel" type="text"/>
+<button class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2" type="button">
+                Inscrivez-vous
+              </button>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid copyright">
+<div class="container">
+<div class="row">
+<div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+              ©
+              <a href="#">Hobe Kibondo</a>, Tous droits réservés
+            </div>
+<div class="col-md-6 text-center text-md-end">
+<a href="https://lifeninc.com">Conception par LifenInc</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Footer End -->
+<!-- JavaScript Libraries -->
+<script src="js/localization.js"></script><script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../lib/wow/wow.min.js"></script>
+<script src="../lib/easing/easing.min.js"></script>
+<script src="../lib/waypoints/waypoints.min.js"></script>
+<script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="../lib/parallax/parallax.min.js"></script>
+<!-- Template Javascript -->
+<script src="../js/main.js"></script>
+</body>
+</html>
